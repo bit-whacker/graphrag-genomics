@@ -1,0 +1,779 @@
+# CHAPTER
+
+# The Cell as a Unit of Health and Disease
+
+# Richard N. Mitchell
+
+# CHAPTER CONTENTS
+
+- The Genome
+- Noncoding DNA
+- Histone Organization
+- Micro-RNA and Long Noncoding RNA
+- Gene Editing
+- Cellular Housekeeping
+- Plasma Membrane: Protection and Nutrient Acquisition
+- Membrane Transport
+- Cytoskeleton
+- Biosynthetic Machinery: Endoplasmic Reticulum and Golgi
+- Waste Disposal: Lysosomes and Proteasomes
+- Cellular Metabolism and Mitochondrial Function
+- Cellular Activation
+- Cell Signaling
+- Signal Transduction Pathways
+- Transcription Factors
+- Growth Factors and Receptors
+- Extracellular Matrix
+- Components of the Extracellular Matrix
+- Maintaining Cell Populations
+- Proliferation and the Cell Cycle
+- Stem Cells
+- Regenerative Medicine
+
+Pathology literally translates as the study of suffering (Greek pathos=suffering, logos=study); more prosaically, and as applied to modern medicine, it is the study of disease: Virchow was prescient in asserting that disease originates at the cellular level; but we now appreciate that cellular pathologies arise from perturbations in molecules (genes, proteins, and metabolites) that influence cell survival and behaviors. Thus the foundation of modern pathology is understanding the cellular and molecular aberrations that give rise to diseases. It is illuminating to consider these abnormalities in the context of normal cellular structure and function, which is the subject of this introductory chapter: the vast and fascinating field of cell biology.
+
+It is unrealistic (and even undesirable) to condense the comprehensive biology into a single chapter: Consequently, rather than attempting a review, the goal here is to survey basic principles and highlight recent advances that are relevant to the mechanisms of disease that are emphasized throughout the rest of the book.
+
+# THE GENOME
+
+The human genome contains some 3.22 billion DNA base pairs. Yet, within the genome there are only about 20,000 protein-encoding genes, constituting just 1.5% of the genome: These are the blueprints that instruct the assembly of the enzymes, structural elements, and signaling molecules within the 50 trillion cells that make up the human body. Although 20,000 underestimates the actual number of encoded proteins (many genes produce multiple RNA transcripts that translate to different protein isoforms), it is nevertheless startling to realize that worms, which are composed of fewer than 1000 cells and have 30-fold smaller genomes also have about 20,000 protein-encoding genes. Many of these proteins are recognizable homologs of molecules expressed in humans. What then separates humans from worms?
+
+The answer is not completely known, but evidence suggests that much of the difference lies in the 98.5% of the human genome that does not encode proteins. The function of such long stretches of DNA (so-called "dark matter") was mysterious for many years. However, over 85% of the human genome is ultimately transcribed; nearly 80% is devoted to regulation of gene expression. It follows that while proteins provide the building blocks and...
+---
+# CHAPTER
+
+# The Cell as a Unit of Health and Disease
+
+machinery required for assembling cells, tissues, and organ- Special structural regions of DNA, in particular, telomeres (chromosome ends) centromeres noncoding regions of the genome that provide the critical architectural planning: Practically stated, the difference between worms and humans apparently lies more in the construction materials: There are five major classes of functional non-protein-coding sequences in the human genome (Fig: 1.1):
+
+- Promoter and enhancer regions that provide binding sites for transcription factors.
+- Binding sites for factors that organize and maintain higher order chromatin structures.
+- Noncoding regulatory RNAs. Over 60% of the genome is transcribed into RNAs that are never translated but regulate gene expression through a variety of mechanisms. The two best-studied varieties micro-RNAs (miRNAs) and long noncoding RNAs (lncRNAs) are described later.
+- Mobile elements (e.g., transposons) make up more than a third of the human genome. These "jumping genes" can move around the genome in variable copy number and positioning even among closely related species (e.g., humans and other primates): Although implicated in gene regulation and chromatin organization, the function of mobile genetic elements is not well established.
+- Many variations (polymorphisms associated with genetic diseases are located in non-coding regions of the genome. Thus variation in gene regulation may prove to be more important in disease causation than structural changes in specific proteins: Another surprise that emerged from genome sequencing is that any two humans are typically more than 99.5% DNA-identical (and are 99% sequence-identical with chimpanzees)! Thus individual variation including differential susceptibility to diseases and environmental stimuli, is encoded in less than 0.5% of our DNA (representing about 15 million bp):
+
+The two most common forms of DNA variation in the human genome are single nucleotide polymorphisms (SNPs) and copy number variations (CNVs). SNPs are variants at single nucleotide positions and are almost always biallelic (only two choices exist at a given position).
+
+|Heterochromatin|Nucleolus|Euchromatin|Nucleus|
+|---|---|---|---|
+|(dense, inactive)|(disperse, active)|Nucleosome|DNA|
+|Transcription|Pre-mRNA|Exon|Exon|
+|Enhancer|Exon|Intron|Splicing|
+|Intron|Intron|5' UTR|Open-reading frame|
+|3' UTR|Centromere|Chromosome| |
+
+Figure 1.1 The organization of nuclear DNA At the light microscopic level, the nuclear genetic material is organized into dispersed, transcriptionally active euchromatin and densely packed; transcriptionally inactive heterochromatin; chromatin can also be mechanically connected with the nuclear membrane; and membrane perturbation can thus influence transcription: Chromosomes (as shown) can be visualized only during mitosis. During mitosis, they are organized into paired chromatids connected at centromeres; the centromeres act as the locus for the formation of a kinetochore protein complex that regulates chromosome segregation at metaphase. The telomeres are repetitive nucleotide sequences that cap the termini of chromatids and permit repeated chromosomal replication without deterioration of genes near the ends. The chromatids are organized into short "P" (petite) and long "Q" arms. The characteristic banding pattern of chromatids has been attributed to relative GC content (less GC content in bands relative to interbands), with genes tending to localize to interband regions. Individual chromatin fibers are comprised of strings of nucleosomes DNA wound around octameric histone cores with the nucleosomes connected via DNA linkers. Promoters are noncoding regions of DNA that initiate gene transcription; they are on the same strand and upstream of their associated gene: Enhancers can modulate expression over distances of 100 kb or more by looping back onto promoters and recruiting additional factors that drive the expression of pre-messenger RNA sequences that are spliced out of the pre-mRNA to produce the final message that is translated into protein without the 3'-untranslated region (UTR) and 5'-UTR. In addition to the enhancer, promoter, and UTR sequences, noncoding elements, including short repeats, regulatory factor binding regions, noncoding regulatory RNAs, and transposons, are distributed throughout the genome:
+---
+# The genome
+
+Ropabetoria thread, the entire genome can be packed into a nucleus site within the human SNPe. Over 6 million SNPs have been identified, with many showing wide variation in frequency in different populations. SNPs occur across the genome - within exons, introns, intergenic regions, and coding regions. Roughly 1% of SNPs occur in coding regions, which is about what would be expected by chance, since coding regions comprise about 1.5% of the genome. SNPs located in noncoding regions can occur within genomic regulatory elements, thereby altering gene expression; in such instances, SNPs influence disease susceptibility directly.
+
+Some SNPs, termed 'neutral' variants, are thought to have no effect on gene function or individual phenotype; they may be useful markers if they happen to be coinherited with a disease-associated polymorphism as a result of physical proximity. In other words, the SNP and the causative factor are in linkage disequilibrium. The effect of most SNPs on disease susceptibility is weak, and it remains to be seen if identification of such variants, alone or in combination, can be used to develop effective strategies to identify those at risk and, ultimately, prevent disease.
+
+CNVs are a form of genetic variation consisting of different numbers of large contiguous stretches of DNA; these can range from 1000 base pairs to millions of base pairs. CNVs can be biallelic and simply duplicated or, alternatively, deleted in some individuals. At other sites, there are complex rearrangements of genomic material, with multiple variants in the human population. CNVs are responsible for between 5 million and 24 million base pairs of sequence difference between any two individuals. Approximately 50% of CNVs involve gene-coding sequences; thus CNVs may underlie a large portion of human phenotypic diversity.
+
+It is important to note that alterations in DNA sequence cannot by themselves explain the diversity of phenotypes in human populations; moreover, classic genetic inheritance cannot explain differing phenotypes in monozygotic twins. The answers to these conundrums probably lie in epigenetics - heritable changes in gene expression that are not caused by variations in DNA sequence.
+
+# Histone Organization
+
+Even though virtually all cells in the body have the same genetic composition, differentiated cells have distinct structures and functions that arise as a result of lineage-specific expression programs. Such cell type-specific differences in transcription and translation depend on epigenetic factors (literally, factors that are above genetics) that can be conceptualized as follows:
+
+Histones and histone-modifying factors. Nucleosomes consist of DNA segments 147 bp long wrapped around a central core structure of highly conserved low molecular weight proteins called histones. The resulting DNA-histone complex resembles a series of beads joined by short DNA linkers. The naked DNA of a single human cell is about 18 m long. By winding around histones, like spools of thread, chromatin structure can regulate transcription independent of traditional promoters and DNA-binding elements and, due to variations between cell types, helps to define cellular identity and activity.
+
+Deciphering the mechanisms that allow epigenetic factors to control genomic organization and gene expression in a cell-type-specific fashion is an extraordinarily complex proposition. Despite the intricacies, there is already ample evidence that dysregulation of the "epigenome" has a central role in malignancy, and emerging data indicate...
+---
+# CHAPTER
+
+# The Cell as a Unit of Health and Disease
+
+# DNA
+
+| | | | |Core DNA|(1.8 turns)| | |
+|---|---|---|---|---|---|---|---|
+| | | |Protone| |H4|HZA| |
+| | | | | |HZB| | |
+| | | | | |H3| | |
+|Linker DNA| | | | | |Hi|Linker histone H1|
+|Heterochromatin| |(inactive)| | | | | |
+|Euchromatin| | | | |(active)| | |
+| | | | | |Methylation|Acetylation| |
+
+Figure 1.2 Histone organization: (A) Nucleosomes are comprised of octamers of histone proteins (two each of histone subunits HZA, HZB, H3, and H4) encircled by 1.8 [47 bp DNA loops. Histones sit on 20- to 80-nucleotide stretches of linker DNA between nucleosomes. Histone subunits are positively charged; thus allowing compaction of negatively charged DNA. (B) The relative state of DNA unwinding (and thus access for transcription factors) is regulated by histone modification; including acetylation, methylation, and/or phosphorylation; these "marks" are dynamically written and erased. Certain marks such as histone acetylation open up the chromatin structure, whereas others such as methylation of particular histone residues condense DNA to silence genes. DNA can also be methylated, leading to transcriptional inactivation.
+
+Many other diseases are associated with inherited or acquired epigenetic alterations. Unlike genetic changes, many epigenetic alterations (e.g., histone acetylation and DNA methylation) are reversible and amenable to therapeutic intervention; HDAC and DNA methylation inhibitors are already being tested in the treatment of various forms of cancer.
+
+# Micro-RNA and Long Noncoding RNA
+
+Genes regulated by noncoding RNAs: These genomic sequences are transcribed but not translated. Although many distinct families of noncoding RNAs exist, we will discuss only two examples here: small RNA molecules called microRNAs (miRNAs) and long noncoding RNAs (ncRNAs) (200 nucleotides in length).
+
+miRNAs do not encode proteins; they modulate translation of target messenger RNAs (mRNAs). Posttranscriptional silencing of gene expression by miRNA is a fundamental and well-conserved mechanism of gene regulation present in all eukaryotes (plants, animals, and fungi). Even bacteria have a primitive version of the same machinery that they use to protect themselves against foreign DNA (e.g., phage and virus DNA).
+
+The profound influence of miRNAs on protein expression allows these relatively short RNAs (22 nucleotides average) to be critical regulators of developmental pathways as well as pathologic conditions (e.g., cancer).
+
+Individual miRNAs can regulate multiple protein-coding genes, allowing each miRNA to coregulate entire programs of gene expression. Transcription of miRNA genes produces primary transcript (pri-miRNA) that is processed into progressively smaller segments, including trimming by the enzyme Dicer. This generates mature single-stranded miRNAs of 21 to 30 nucleotides that associate with a multiprotein aggregate called RNA-induced silencing complex (RISC). Subsequent base pairing between the miRNA strand and its target mRNA directs the RISC to either induce mRNA cleavage or repress its translation. In this way, the target mRNA is posttranscriptionally silenced.
+
+Small interfering RNAs (siRNAs) are short RNA sequences that can be introduced experimentally into cells where they...
+---
+# The genome
+
+serve as substrates for Dicer and interact with RISC, thereby reproducing endogenous miRNAs function. Synthetic siRNAs that target specific mRNA species are powerful laboratory tools to study function (so-called knockdown technology) and are also being studied as potential therapeutic agents to silence pathogenic genes (e.g., oncogenes that drive neoplastic transformation):
+
+# Long Noncoding RNA
+
+Recent studies have further identified an untapped universe of IncRNAs; by some calculations, the number of IncRNAs may exceed coding mRNAs by 10-fold to 20-fold.
+
+# Target gene
+
+IncRNAs modulate gene expression by several mechanisms. As one example, IncRNAs can bind to chromatin and restrict RNA polymerase from accessing coding genes within that region. The best-known example is XIST, which is transcribed from the X chromosome and plays an essential role in the physiologic X chromosome inactivation that occurs in.
+
+# Figure 1.3 Generation of microRNAs (miRNAs) and their mode of action in regulating gene function.
+
+Transcription of miRNA produces Primary miRNA (pri-miRNA) which is processed within the nucleus to form pre-miRNA composed of single RNA strand with secondary hairpin loop structures and stretches of double-stranded RNA. After export out of the nucleus via specific transporter proteins, pre-miRNA is trimmed by the cytoplasmic Dicer enzyme to generate mature double-stranded miRNAs of 21 to 30 nucleotides. The miRNA subsequently unwinds and the single strands are incorporated into multiprotein RNA-induced silencing complexes (RISC). Base pairing between single-stranded miRNA and the targeted messenger RNA (mRNA) directs RISC to either cleave or repress translation of the mRNA, resulting in posttranscriptional silencing:
+
+# Figure 1.4 Roles of long noncoding RNAs (IncRNAs)
+
+(A) IncRNAs can facilitate transcription factor binding and thus promote gene activation; (B) Conversely, IncRNAs can preemptively bind transcription factors to inhibit transcription; (C) Histone and DNA modification by acetylases or methylases (or deacetylases and demethylases) may be directed by IncRNA binding; (D) In other instances, IncRNAs can act as scaffolds to stabilize secondary or tertiary structures and multisubunit complexes that influence chromatin architecture or gene activity: (Modified from KC, Chang HY: Molecular mechanisms of long noncoding RNAs; Mol Cell 43:904, 2011.)
+---
+# CHAPTER
+
+# The Cell as a Unit of Health and Disease
+
+females. XIST itself escapes X inactivation but forms a repregsive 'cloak' on the X chromosome from which it is transcribed, resulting in gene silencing: Conversely, many enhancers are actually sites of IncRNA synthesis. In this case the IncRNAs expand transcription from gene promoters via a variety of mechanisms (see Fig: 1.4).
+
+# Gene Editing
+
+An exciting new genome editing may usher in the next era of the molecular revolution. This advance comes from a wholly unexpected source: the discovery of clustered regularly interspaced short palindromic repeats (CRISPRs) and CRISPR-associated genes (Cas); such as the Cas9 nuclease. These are linked genetic elements that endow prokaryotes with a form of acquired immunity to phages and plasmids. Bacteria use the system to sample the DNA of infecting agents and integrate portions into their genomes as CRISPRs. These CRISPR segments are subsequently transcribed and processed into RNA guide sequences that bind and direct the Cas9 nuclease to specific sites (e.g., phage sequence) so that it can be cleaved to disable the infecting agent.
+
+Gene editing repurposes this process by using artificial 20-base guide RNAs (gRNAs) that bind Cas9 and are complementary to a targeted DNA sequence (Fig: 1.5). Cas9 then induces double-stranded DNA breaks at the site of gRNA binding: Repair of the highly specific cleavages can lead to random disruptive mutations (through nonhomologous end joining) or can introduce new genetic material with precision (by homologous recombination). Both the guide sequences and the Cas enzyme, either as coding DNA (cDNA) or protein can be easily introduced into cells. The potential application to genetic engineering due to the impressive specificity of the Cas9 system (up to 10,000-fold better than other previous editing systems), has led to great excitement: Applications include specific mutations in cells and tissues to model cancers and other diseases and rapidly generating transgenic animal models from edited embryonic stem cells. CRISPR also makes it possible to selectively edit mutations that cause hereditable disease, or - perhaps more worrisome - to just eliminate less 'desirable' traits. Predictably the technology has inspired vigorous debate regarding the ethics of its use.
+
+To perform gene editing, gRNAs are designed with variable regions that are homologous to specific DNA sequences of interest; coexpression of the gRNA and Cas9 then leads to efficient and highly specific cleavage of the target sequence: In the absence of homologous DNA the double-stranded break is repaired by nonhomologous end-joining (NHEJ), an error-prone mechanism that typically introduces disruptive insertions or deletions (indels). Conversely, in the presence of homologous donor DNA that spans the region targeted by the CRISPR/Cas9 complex, cells instead can use homologous DNA recombination (HDR) to repair the break. HDR is less efficient than NHEJ but has the capacity to introduce precise changes in DNA sequence: Potential applications of CRISPR/Cas9 coupled with HDR include repair of inherited genetic diseases and the creation of pathogenic mutations in inducible pluripotent stem cells.
+
+# CELLULAR HOUSEKEEPING
+
+Normal functioning and intracellular homeostasis depend on a variety of fundamental cell housekeeping functions that all differentiated cells must perform to maintain viability and normal activity. These include protection from the environment, nutrient acquisition, metabolism, communication, movement, renewal of senescent molecules, molecular catabolism, and energy generation.
+
+Many of the normal housekeeping functions of the cell are compartmentalized within membrane-bound intracellular organelles (Fig: 1.6). By isolating certain cellular functions within distinct compartments, potentially injurious degradative enzymes or toxic metabolites can be kept at usefully high concentrations without risking damage to more delicate intracellular constituents. Moreover, the functioning of certain enzymes that permit more efficient metabolic pathways is facilitated by compartmentalization.
+
+New proteins destined for the plasma membrane or secretion are physically assembled in the rough endoplasmic reticulum.
+---
+# Cellular housekeeping
+
+# Relative volumes of intracellular organelles (hepatocyte)
+
+|Compartment|% total volume|number/cell|role In the cell|
+|---|---|---|---|
+|Cytosol|54%|1700|metabolism, transport, protein translation|
+|Mitochondria|22%| |energy generation, apoptosis|
+|Rough ER|9%| |synthesis of membrane and export protein|
+|Smooth ER, Golgi| | |protein modification, sorting, catabolism|
+|Nucleus| | |cell regulation, proliferation, DNA transcription|
+|Endosomes| |200|intracellular transport and export|
+|Lysosomes| |300|cellular catabolism|
+|Peroxisomes| |400|very long chain fatty acid metabolism|
+
+Figure [.6 Basic subcellular constituents of cells. The table presents the number of the various organelles within a typical hepatocyte, as well as their volume within the cell; The figure shows geographic relationships but is not intended to be accurate to scale: ER Endoplasmic reticulum: (Modified from Weibel ER, Staubli W, Gnigi HR et al: Correlated morphometric and biochemical studies on the liver cell: Morphometric model, stereologic methods, and normal morphometric data for rat liver: ] Cell Biol 42.68, |969)
+
+Reticulum (RER) and Golgi apparatus; proteins intended for the degradation of regulatory proteins or transcription factors can trigger initiation or suppression of signaling pathways. Lysosomes are intracellular organelles containing degradative enzymes that permit digestion of a wide range of macromolecules, including proteins, polysaccharides, lipids, and nucleic acids. They are the site of senescent intracellular organelle breakdown process called autophagy and where phagocytosed microbes are killed and catabolized.
+
+Cells catabolize the wide variety of molecules that they endocytose; as well as the entire repertoire of their own proteins and organelles, all of which are constantly being degraded and renewed. Breakdown of these constituents takes place at three different sites, ultimately serving different functions. Peroxisomes contain catalase, peroxidase, and other oxidative enzymes; they play a specialized role in the breakdown of very long chain fatty acids, generating hydrogen peroxide in the process.
+
+Proteasomes are disposal complexes that degrade "tagged" cytosolic proteins. In denatured or otherwise antigen-presenting cells, the resulting short peptides are presented in the context of class I or class II major histocompatibility molecules to help drive the adaptive immune response (Chapter 6). In other cases, proteasomal.
+---
+# CHAPTER
+
+# The Cell as a Unit of Health and Disease
+
+membrane-bound vesicles direct newly synthesized materials about 10 days), mechanisms must also exist that allow for the recognition and degradation of worn-out cellular components to the cell surface. Movement of both specific organelles and proteins within the cell, as well as the entire cell in its environment - is accomplished by the cytoskeleton, which is composed of filamentous actin (microfilaments), keratins (intermediate filaments), and microtubules. These structural proteins also maintain cellular shape and intracellular organization which are essential to generation and maintenance of cell polarity: This is particularly important in epithelium where the top of the cell (apical) and the bottom and sides of the cell (basolateral) are exposed to different environments and have distinct functions. Loss of polarity could disrupt vectorial transcellular transport in the intestine or renal tubule.
+
+Cell growth and maintenance require a constant supply of both energy and the building blocks that are needed for synthesis of macromolecules. Most of the adenosine triphosphate (ATP) that powers cells is generated via mitochondrial oxidative phosphorylation. Mitochondria also serve as an important source of metabolic intermediates needed for anabolic metabolism, are sites of synthesis of certain macromolecules (e.g., heme), and contain important sensors of cell damage that can initiate and regulate programmed cell death (e.g., apoptosis).
+
+In growing and dividing cells, all of these organelles have to be replicated (organellar biogenesis) and correctly apportioned in daughter cells following mitosis. Moreover, because the macromolecules and organelles have finite lifespans (mitochondria, for example, last only about 10 days), mechanisms must also exist that allow for the recognition and degradation of worn-out cellular components.
+
+# Plasma Membrane: Protection and Nutrient Acquisition
+
+Plasma membranes (and all other organellar membranes for that matter) are more than just static lipid sheaths. Rather, they are fluid bilayers of amphipathic phospholipids that have hydrophilic head groups that face the aqueous environment and hydrophobic lipid tails that interact with each other to form a barrier to passive diffusion of large or charged molecules (Fig. 1.7). The bilayer has a remarkably heterogeneous composition of different phospholipids that vary by location and are also asymmetric; that is, membrane lipids preferentially associate with extracellular or cytosolic faces. Proper localization of these molecules is important for cell health: For example, specific phospholipids interact with particular membrane proteins and modify their distributions.
+
+|Extracellular|Glycosylphosphatidylinositol protein (GPI) linked protein|Glycolipids|
+|---|---|---|
+|Phosphatidylcholine (outer mostly)|Sphingomyelin (outer mostly)| |
+|Phosphatidylethanolamine (inner mostly)|Phosphatidylserine (inner mostly)|Phosphatidylinositol (both faces)|
+|Cholesterol (both faces)| | |
+
+Figure 1.7 Plasma membrane organization and asymmetry: (A) The plasma membrane is a bilayer of phospholipids, cholesterol, and associated proteins: The phospholipid distribution within the membrane is asymmetric due to the activity of flippases; phosphatidylcholine and sphingomyelin are overrepresented in the outer leaflet, and phosphatidylserine (negative charge) and phosphatidylethanolamine are predominantly found on the inner leaflet; glycolipids occur only on the outer face where they contribute to the extracellular glycocalyx. Although the membrane is laterally fluid and the various constituents can diffuse randomly, domains; for example, cholesterol and glycosphingolipid-rich lipid rafts, can also form: (B) Membrane-associated specific proteins may traverse the membrane (singly or multiply) via α-helical hydrophobic amino acid sequences; depending on the membrane lipid content and relative hydrophobicity of protein domains, such proteins may have nonrandom distributions within the membrane: Proteins on the cytosolic face can associate with the plasma membrane through posttranslational modifications (e.g., farnesylation) or addition of palmitic acid. Proteins on the extracytoplasmic face can associate with the membrane via glycosylphosphatidylinositol (GPI) linkages. Besides protein-protein interactions within the membrane, membrane proteins can also associate with extracellular and/or intracytoplasmic proteins to generate distinct domains (e.g., the focal adhesion complex). Transmembrane proteins can translate mechanical forces (e.g., from the cytoskeleton or extracellular matrix), as well as chemical signals across the membrane.
+---
+# Cellular housekeeping
+
+Phosphatidylserine is normally restricted to the inner face negative charge involved in electrostatic composition. The latter strategy is used to maintain cell polarity (e.g., top/apical / free bottom/basolateral / bound to extracellular matrix [ECM]) in epithelial cells. Where it confers a "eat me" signal during programmed cell death (e.g., apoptosis) in platelets, phosphatidylserine is also a cofactor in blood clotting.
+
+Glycolipids and sphingomyelin are preferentially located on the extracellular face; glycolipids, sides with complex sugar linkages and terminal sialic acids that confer negative charges, support charge-based interactions that contribute to cell recruitment and sperm-egg fusion.
+
+# Membrane Transport
+
+Despite substantial lateral fluidity, some membrane constituents concentrate into specialized domains (e.g., lipid rafts) that are enriched in glycosphingolipids and cholesterol. Since inserted membrane proteins have different intrinsic solubilities in domains with distinct lipid compositions, this organization also impacts distribution.
+
+This geographic organization of plasma membrane components impacts cell-cell and cell-matrix interactions, intracellular signaling, and the specialized sites of vesicle budding or fusion. The plasma membrane is liberally studded with a variety of proteins and glycoproteins involved in (1) ion and metabolite transport; (2) fluid-phase and receptor-mediated uptake of macromolecules; and (3) cell-ligand, cell-matrix, and cell-cell interactions. The means by which these proteins associate with membranes frequently reflects function: For example, multiple transmembrane-spanning proteins are often pores or molecular transporters, while proteins that are superficially attached to the membrane via labile linkages are more likely to participate in signaling.
+
+In general, proteins associate with the lipid bilayer by one of four mechanisms. Most proteins are integral or transmembrane proteins having one or more relatively hydrophobic α-helical segments that traverse the lipid bilayer. Proteins synthesized on free ribosomes in the cytosol may be modified posttranslationally by addition of prenyl groups (e.g., farnesyl, related to cholesterol) or fatty acids (e.g., palmitic or myristic acid) that insert into the cytosolic side of the plasma membrane. Proteins on the extracellular face of the membrane may be anchored by glycosylphosphatidylinositol (GPI) tails that are added posttranslationally.
+
+Peripheral membrane proteins may noncovalently associate with true transmembrane proteins. Many plasma membrane proteins function as complexes; these may be aggregated either under the control of chaperone molecules in the RER or by lateral diffusion in the plasma membrane, followed by complex formation in situ. For example, many protein receptors (e.g., cytokine receptors) dimerize or trimerize in the presence of ligand to form functional signaling units. Although lipid bilayers are fluid within the plane of the membrane, components can be confined to discrete domains. This can occur by localization to lipid rafts or through intercellular protein-protein interactions (e.g., tight junctions) that establish discrete boundaries and also have unique lipid compositions.
+
+Solute transport across the plasma membrane is frequently driven by a concentration and/or electrical gradient between the inside and outside of the cell via passive transport (virtually all plasma membranes have an electrical potential difference across them; with the inside negative relative to the outside). In other cases, active transport of certain solutes (against a concentration gradient) is accomplished by carrier molecules (never channels) at the expense of ATP hydrolysis or coupled ion gradient. For example, most apical nutrient transporters are driven by these mechanisms.
+---
+# CHAPTER 10
+
+# The Cell as a Unit of Health and Disease
+
+|Extracellular|Canler Channel|Endocytosle|Exocytosls|Phagocytosls|Transcytosls|
+|---|---|---|---|---|---|
+|Energy|Caveolae-|Receptors|Receptor-|Microbe| |
+|Membrane| | |Cytosol| | |
+|Caveolin| |Coated|Recycling|Lysosome|'Phagosome|
+|Early endosome|(low pH)|Reconstitution|Phagolysosome|Late endosome|Lysosome-late endosome fusion vesicle|
+
+Figure 1.8 Movement of small molecules and larger structures across membranes. The lipid bilayer is relatively impermeable to all but the smallest and/or most hydrophobic molecules: Thus the import or export of charged species requires specific transmembrane transporter proteins, vesicular traffic, membrane deformations:
+
+From left to right in the figure: Small charged solutes can move across the membrane using either channels or carriers; in general, each molecule requires a unique transporter: Channels are used when concentration gradients can drive the solute movement; activation of the channel opens a hydrophilic pore that allows size-restricted and charge-restricted flow. Carriers are required when solute is moved against a concentration gradient; this typically requires energy expenditure to drive a conformational change in the carrier that facilitates the transmembrane delivery of specific molecules:
+
+Receptor-mediated and fluid-phase uptake of material involves membrane-bound vesicles. Caveolae endocytose extracellular fluid, membrane proteins, and some receptor-bound molecules (e.g., folate) in a process driven by caveolin proteins concentrated within lipid rafts. They can subsequently fuse with endosomes or recycle to the membrane. Endocytosis of receptor-ligand pairs often involves clathrin-coated pits and vesicles. After internalization, the clathrin disassembles and individual components can be reused: The resulting vesicle becomes part of the endocytic pathway, in which compartments are progressively more acidic. After ligand is released, the receptor can be recycled to the plasma membrane to repeat the process (e.g., iron dissociates from transferrin at pH ~5.5; apotransferrin and the transferrin receptor then return to the surface). Alternatively, receptor and ligand complexes can eventually be degraded within lysosomes (e.g., epidermal growth factor and its receptor are both degraded, which prevents excessive signaling):
+
+Exocytosis is the process by which membrane-bound vesicles fuse with the plasma membrane and discharge their contents to the extracellular space. This includes endosome recycling (shown); release of undigested residual material from lysosomes, transcytotic delivery of vesicles, and export of secretory vacuole contents (not shown). Phagocytosis involves membrane invagination to engulf large particles and is most common in specialized phagocytes (e.g., macrophages and neutrophils). The resulting phagosomes eventually fuse with lysosomes to facilitate the degradation of the internalized material.
+
+Transcytosis can mediate transcellular transport in either apical-to-basal or basal-to-apical directions, depending on the receptor and ligand. Transporters in the intestines and renal tubules exploit the extracellular to intracellular Na+ gradient to allow absorption even when intracellular nutrient concentrations exceed extracellular concentrations. This form of active transport does not use ATP directly, but depends on the Na+ gradient generated by Na+-K+ ATPase. Loss of the ability to generate energy (e.g., in a cell injured by toxins or ischemia) therefore results in osmotic swelling and eventual cell rupture. Similar transport mechanisms also regulate concentrations of other ions (e.g., Ca2+ and H+). This is critical to many processes. For example, cytosolic enzymes are most active at pH 7.4 and are often regulated by Ca2+, whereas lysosomal enzymes function best at pH 5 or less.
+
+Water movement into or out of cells is passive and directed by solute concentrations. Thus extracellular salt in excess of that in the cytoplasm (hypertonicity) causes net movement of water out of cells, while hypotonicity causes net movement of water into cells. Conversely, the charged metabolites and proteins within the cytoplasm attract charged metabolites and proteins within the cytoplasm attract charged.
+---
+# Cellular housekeeping
+
+Neutrophils) whose role is to specifically ingest invading organisms or dead cell fragments.
+
+# Receptor-Mediated and Fluid-Phase Uptake (see Fig: 1.8)
+
+Certain small molecules—including some vitamins—bind back to the plasma membrane (exocytosis) for another round of ingestion. This is critical, as a cell will typically ingest from the extracellular space the equivalent of 10% to 20% of its own cell volume each hour—amounting to 1% to 2% of its plasma membrane each minute! Without recycling, the plasma membrane would be rapidly depleted. Endocytosis and exocytosis must therefore be tightly coupled to avoid large changes in plasma membrane area.
+
+Macromolecules can also be exported from cells by exocytosis. In this process, proteins synthesized and packaged within the RER and Golgi apparatus are concentrated in secretory vesicles, which then fuse with the plasma membrane to expel their contents. Common examples include hormones (e.g., insulin) and cytokines.
+
+Transcytosis is the movement of endocytosed vesicles between the apical and basolateral compartments of cells transferring large amounts of intact proteins across epithelial barriers (e.g., ingested antibodies in maternal milk) or for rapid movement of large solute volumes.
+
+# We now return to the specifics of endocytosis (see Fig 1.8)
+
+Caveolae-mediated endocytosis. Caveolae ("little caves") are noncoated plasma membrane invaginations associated with GPI-linked molecules, cyclic adenosine monophosphate (cAMP) binding proteins, grc-family kinases, and the folate receptor; caveolin is the major structural protein of caveolae, which, like membrane rafts (see above), are enriched in glycosphingolipids and cholesterol. Internalization of caveolae along with bound molecules and associated extracellular fluid is called potocytosis, literally 'cellular sipping'. In addition to supporting transmembrane delivery of some molecules (e.g., folate), caveolae regulate transmembrane signaling and cellular adhesion via internalization of receptors and integrins.
+
+# Receptor-mediated endocytosis
+
+Macromolecules bound to membrane receptors (such as transferrin or low-density lipoprotein [LDL] receptors) are taken up at specialized regions of the plasma membrane called clathrin-coated pits. The receptors are efficiently internalized by membrane invaginations driven by the associated clathrin matrix, eventually pinching off to form clathrin-coated vesicles. Trapped within these vesicles is also a gulp of the extracellular milieu (fluid-phase pinocytosis). The vesicles then rapidly lose their clathrin coating and fuse with an acidic intracellular structure called the early endosome; the endosomal vesicles undergo progressive maturation to late endosomes, ultimately fusing with lysosomes. In the acidic environment of the endosomes, LDL and transferrin receptors release their cargo (cholesterol and iron respectively) which is then transported into the cytosol.
+
+After release of bound ligand, some receptors recycle to the plasma membrane and are reused (e.g., transferrin and LDL receptors), while others are degraded within lysosomes (e.g., epidermal growth factor receptor). In the latter case, degradation after internalization results in receptor downregulation that limits receptor-mediated signaling.
+
+# Figure 1.9 Cytoskeletal elements and cell-cell interactions
+
+Interepithelial adhesion involves several different surface protein interactions at tight junctions, adherens junctions, and desmosomes; adhesion to the extracellular matrix involves cellular integrins (and associated proteins) within hemidesmosomes. The various adhesion proteins within the plasma membrane associate with actin microfilaments and intermediate filaments to provide a mechanical matrix for cell structure and signaling. Gap junctions do not impart structural integrity but allow cell-cell communication by the movement of small molecular weight and/or charged species.
+---
+# CHAPTER 12
+
+# The Cell as a Unit of Health and Disease
+
+Abundant cytosolic protein in cells. G-actin monomers noncovalently polymerize into long filaments (F-actin) that intertwine to form double-stranded helices with a defined polarity. Although the details are (as always) more nuanced, new subunits are typically added at the "positive" end of the strand and removed from the "negative" end - a process referred to as actin treadmill-ing. Actin nucleating binding and regulatory proteins organize polymerization, bundling, and branching to form networks that control cell shape and movement. This complex and its association with motor proteins (e.g., myosin) is so precisely arrayed in skeletal and cardiac muscle that a banding pattern is apparent by light microscopy. ATP hydrolysis by myosin slides the actin filaments relative to one another to cause muscle contraction. Although less coordinated, myosins, of which there are many, are responsible for other functions that depend on actin contraction including vesicular transport, epithelial barrier regulation, and cell migration.
+
+# Cell-Cell Interactions
+
+Cells connect and communicate with each other via junctional complexes that form mechanical links and facilitate receptor-ligand interactions. Similar complexes also mediate interaction with the ECM. Cell-cell junctions are organized into three basic types (see Fig: 1.9):
+
+- Occluding junctions (tight junctions) seal adjacent epithelial cells together to create a continuous barrier that restricts the paracellular (between cells) movement of ions and other molecules. Occluding junctions form a tight meshlike network (when viewed en face by freeze-fracture electron microscopy) of macromolecular contacts between neighboring cells; the complexes that mediate the cell-cell interactions are composed of transmembrane proteins including the tetraspanning claudin and tight junction-associated MARVEL protein (TAMP) families. These connect scaffolding proteins to a host of intracellular adaptor proteins including the three members of the zonula occludens protein family (ZO-1, ZO-2, ZO-3) and cingulin. Besides forming a selectively permeable barrier that seals the space between cells (i.e., the paracellular space), this zone also represents the boundary that separates apical and basolateral membrane domains and helps to maintain cellular polarity. Nevertheless, these junctions are dynamic structures that can be modified to facilitate epithelial healing and inflammatory cell migration across epithelial-lined mucosal surfaces.
+- Anchoring junctions (adherens junctions and desmosomes) mechanically attach cells and their cytoskeletons to other cells or the ECM. Adherens junctions are often closely associated with and beneath tight junctions. Desmosomes are more basal and form several types of junctions. When desmosomes attach the cell to the extracellular matrix (ECM) they are referred to as hemidesmosomes (half a desmosome), since the other half of the desmosome is not present within the ECM. Both adherens junctions and desmosomes are formed by homotypic extracellular interactions between transmembrane glycoproteins called cadherins, on adjacent cells. In adherens junctions, the transmembrane adhesion molecules are associated with intracellular actin microfilaments through which they can also influence cell shape and/or motility. Loss of the epithelial adherens junction protein E-cadherin explains the discohesive invasion pattern of some gastric cancers and lobular carcinomas of the breast (Chapters 17 and 23).
+- In desmosomes, the cadherins are linked to intracellular intermediate filaments, allowing extracellular forces to be mechanically communicated (and dissipated) over multiple cells.
+
+Intermediate filaments are 10-nm diameter fibrils that comprise a large and heterogeneous family that includes keratin proteins and nuclear lamins. Intermediate filaments predominantly form ropelike polymers and do not usually actively reorganize like actin and microtubules. This allows intermediate filaments to provide tensile strength so that cells can bear mechanical stress, e.g., in epithelia where intermediate filaments link desmosomes and hemidesmosomes (see Fig: 1.9). Individual intermediate filament proteins have characteristic tissue-specific patterns of expression that can be useful for assigning cell of origin for poorly differentiated tumors. Examples include:
+
+- Vimentin, in mesenchymal cells (fibroblasts, endothelium);
+- Desmin in muscle cells forms the scaffold on which actin and myosin contract;
+- Neurofilaments are critical for neuronal axon structure and confer both strength and rigidity;
+- Glial fibrillary acidic protein is expressed in glial cells;
+- Cytokeratins are expressed in epithelial cells. There are at least 30 distinct different cytokeratins that are expressed in different cell lineages (e.g., lung vs. gastrointestinal epithelium);
+- Lamins are intermediate filament proteins that form the nuclear lamina, define nuclear shape, and can regulate transcription.
+
+Microtubules are 25-nm-thick fibrils composed of noncovalently polymerized α- and β-tubulin dimers organized into hollow tubes. These fibrils are extremely dynamic and polarized, with "+" and "−" ends. The "−" end is typically embedded in the microtubule organizing center (MTOC or centrosome) near the nucleus; where it is associated with paired centrioles; the "+" end elongates or recedes in response to various stimuli by the addition or subtraction of tubulin dimers. Microtubules serve as mooring lines for molecular motor proteins that use ATP to translocate vesicles, organelles, or other molecules around cells. There are two varieties of these motor proteins, kinesins and dyneins, that typically (but not exclusively) transport cargo in anterograde and retrograde (+ to − directions, respectively) to +.
+---
+# Cellular housekeeping
+
+In hemidesmosomes the transmembrane connector proteins are called integrins; like desmosomal cadherins, these attach to intermediate filaments and link the cytoskeleton to the ECM. Focal adhesion complexes are composed of >100 proteins and localize at hemidesmosomes. Their component proteins can generate intracellular signals when cells are subjected to shear (e.g., endothelium in the bloodstream or cardiac stress myocytes in a failing heart):
+
+Communicating junctions (gap junctions) permit the diffusion of chemical or electrical signals from one cell to another. The junction consists of a dense planar array of 1.5- to 2-nm pores (called connexons) formed by a pair of hexameric transmembrane connexin proteins (one on each cell). These form pores that permit passage of ions, nucleotides, sugars, amino acids, vitamins, and other small molecules; permeability of the junction is rapidly reduced by lowered intracellular pH or increased intracellular calcium. Gap junctions play a critical role in cell-cell communication. For example, gap junctions in cardiac myocytes allow cell-to-cell calcium fluxes that allow the many cells of the myocardium to behave as a functional syncytium with coordinated waves of contraction.
+
+# Biosynthetic Machinery: Endoplasmic Reticulum and Golgi Apparatus
+
+All cellular constituents—including structural proteins, enzymes, transcription factors, and even the membranes—are constantly renewed in an ongoing process balancing synthesis and degradation. The endoplasmic reticulum (ER) is the site for synthesis of all transmembrane proteins and lipids for plasma membrane and cellular organelles, including the ER itself. It is also the initial site for synthesis of secreted proteins. The ER is organized into branching tubes and meshlike interconnected flattened lamellae, forming a continuous sheet around a single lumen that is topologically equivalent to the extracellular environment. The ER is composed of contiguous but distinct domains that are distinguished by the presence (RER) or absence (SER) of ribosomes.
+
+# Rough endoplasmic reticulum (RER)
+
+Membrane-bound ribosomes on the cytosolic face of RER translate mRNA into proteins that are extruded into the ER lumen or become integrated into the ER membrane. This process is directed by specific signal sequences on the N-termini of nascent proteins; synthesis of proteins with signal peptides is initiated on free ribosomes, but the complex then becomes attached to the ER membrane; and the protein is inserted into or passed across the ER membrane as it is translated.
+
+# Smooth endoplasmic reticulum (SER)
+
+In most cells, the SER is relatively sparse and primarily exists as the transition zone extending from RER to generate transport vesicles that carry newly synthesized proteins to the Golgi apparatus. The SER may, however, be particularly conspicuous in cells that synthesize steroid hormones (e.g., within the gonads or adrenals) or that catabolize lipid-soluble molecules (e.g., hepatocytes). Indeed, repeated exposure to compounds that are metabolized by the SER (e.g., phenobarbital, which is catabolized by the cytochrome P-450 system) can lead to SER hyperplasia. The SER is also responsible for sequestering intracellular calcium, which when released into the cytosol, can mediate a number of responses to extracellular signals (including apoptotic cell death). In muscle cells, specialized SER called sarcoplasmic reticulum is responsible for the release and sequestration of calcium ions that cyclically regulate muscle contraction and relaxation respectively.
+---
+# CHAPTER
+
+# The Cell as a Unit of Health and Disease
+
+# LYSOSOMAL DEGRADATION
+
+|Endoplasmic reticulum|Nucleus|
+|---|---|
+|Senescent organs|Endocytosis|
+|Denatured proteins|Endosome|
+|Lysosomes|Phagocytosis|
+|LC3|Phagosome|
+
+# AUTOPHAGY
+
+Autophagosome
+Phagolysosome
+# HETEROPHAGY
+
+Exocytosis
+# PROTEASOMAL DEGRADATION
+
+|CYTOSOL|Age; UV, heat; reactive oxygen species|
+|---|---|
+|Chaperones|Folded|
+|Nascent peptide chains|Senescent or denatured protein|
+|Multiple ubiquitins|E1, E2, E3 ligases|
+|Peptide fragments|Free ubiquitin|
+
+# Metabolic alterations
+
+|(e.g PH)|Genetic mutations|
+|---|---|
+|Viral infections|Excess misfolded protein|
+
+# ENDOPLASMIC RETICULUM
+
+APOPTOSIS
+Figure 1.10 Intracellular catabolism: (A) Lysosomal degradation: In heterophagy (right side of panel A); lysosomes fuse with endosomes or phagosomes to facilitate the degradation of their internalized contents (see Fig: 1.8). The end products may be released into the cytosol for nutrition or discharged into the extracellular space (exocytosis). In autophagy (left side of panel A), senescent organelles or denatured proteins are targeted for lysosome-driven degradation as they are encircled within double membrane vacuole derived from the endoplasmic reticulum and marked by LC3 protein (microtubule-associated protein light chain 3). Cell stress, such as nutrient depletion or some intracellular infections, can also activate the associated protein autophagocytic pathway: (B) Proteosomal degradation. Cytosolic proteins destined for turnover (e.g., transcription factors or regulatory proteins), senescent proteins, or proteins that have become denatured due to extrinsic mechanical or chemical stresses can be tagged by multiple ubiquitin molecules (through the activity of E1, E2, and E3 ubiquitin ligases). This marks the proteins for degradation by proteasomes, cytosolic multi-subunit complexes that degrade proteins to small peptide fragments. High levels of misfolded proteins within the endoplasmic reticulum (ER) trigger protective unfolded protein response engendering broad reduction in protein synthesis, but specific increases in chaperone proteins that can facilitate protein refolding. If this is inadequate to cope with the levels of misfolded proteins it can lead to apoptosis.
+
+Waste Disposal: Lysosomes and Proteasomes. Although cells rely primarily on lysosomes to digest internalized material and accumulated internal waste, there are multiple other routes to degrade intracellular macromolecules (see Fig: 1.10). These include proteosomes and peroxisomes. Lysosomes are membrane-bound organelles containing roughly 40 different acid hydrolases (i.e., that function best at pH <5); these include proteases, nucleases, lipases, glycosidases, phosphatases, and sulfatases.
+---
+# Cellular metabolism and mitochondrial function
+
+Enzymes are initially synthesized in the ER lumen and then tagged with mannose-6-phosphate (M6P) within the Golgi apparatus. These M6P-modified proteins are subsequently delivered to lysosomes through trans Golgi vesicles that express M6P receptors. The other macromolecules destined for catabolism in the lysosomes arrive by one of three pathways (see Fig: 1.10) - Material internalized by fluid-phase or receptor-mediated endocytosis passes from plasma membrane to early and then late endosomes and ultimately arrives at the lysosome. These compartments are progressively acidified such that proteolytic enzymes become active in late endosome and lysosomes.
+
+Senescent organelles and/or large, denatured protein complexes can be ferried into lysosomes by a process called autophagy (Chapter 2). Through a mechanism involving the products of a number of autophagy-related (Atg) genes, obsolete organelles are corralled by a double membrane derived from the ER. The membrane progressively expands to encircle a collection of organelles and cytosolic constituents, forming the definitive autophagosome; these structures are targeted for eventual destruction by fusion with lysosomes. In addition to facilitating turnover of aged and/or defunct structures, autophagy can be used to preserve viability during nutrient depletion; is involved in protective responses to intracellular infections; participates in intracellular repair; and, under some circumstances, triggers programmed cell death (apoptosis). Autophagy is discussed in more detail in Chapter 2.
+
+Phagocytosis of microorganisms or debris occurs primarily through professional phagocytes (macrophages or neutrophils). The material engulfed to form a phagosome subsequently fuses with lysosomes.
+
+Proteasomes play an important role in degrading cytosolic proteins (see Fig: 1.10); these include denatured or misfolded proteins as well as any other macromolecule whose lifespan needs to be regulated (e.g., signaling molecules). Many proteins destined for destruction are identified by covalently binding a small protein called ubiquitin. Polyubiquitinated molecules are unfolded and funneled into the polymeric proteasome complex cylinder containing multiple protease activities, each with its active site pointed at the hollow core. Proteasomes digest proteins into small (6 to 12 amino acids) fragments that can subsequently be degraded to their constituent recycled amino acids.
+
+The major source of the energy that facilitates all cellular functions derives from oxidative metabolism. Mitochondria oxidize substrates to CO2, transferring the high-energy electrons from the original molecule (e.g., sugar) to molecular oxygen. Oxidation of various metabolites drives proton pumps that transfer H+ from the core matrix into the intermembrane space. As the H+ ions flow down their electrochemical gradient and out of the intermembrane space, the energy released is used to generate ATP.
+
+Notably, the electron transport chain need not necessarily be coupled to ATP generation. An inner membrane protein enriched in brown fat called thermogenin (also called uncoupling protein-1 [UCP-1]) is a hydrogen ion transporter that can dissipate the proton gradient, uncoupling it from oxidative phosphorylation. By this means, there is rapid substrate oxidation without ATP synthesis that allows tissues with high levels of UCP-1 to generate heat (nonshivering thermogenesis).
+
+Mitochondria evolved from ancestral prokaryotes that were engulfed by primitive eukaryotes about 1.5 billion years ago. Their origin explains why mitochondria contain their own DNA that encodes about 1% of total cellular protein and approximately 20% of the proteins involved in oxidative phosphorylation. Although their genomes are small, mitochondria can carry out all the steps of DNA replication, transcription, and translation using machinery similar to present-day bacteria.
+---
+# CHAPTER 16
+
+# The Cell as a Unit of Health and Disease
+
+|METABOLITES|METABOLITES|TCA cycle|nucleic acid building blocks|
+|---|---|---|---|
+|(glucose, glutamine, fatty acids)|Intermembrane space|(ATP generation)| |
+|Inner membrane|APOPTOSIS SIGNALS|(respiratory chain proteins)| |
+|Outer membrane|Mitochondrion|Bax/Bak complexes| |
+|Core matrix|(citric acid cycle enzymes)|Mitochondrial outer membrane permeabilization (MOMP)|Cytochrome C|
+|Injury|Membrane permeability transition pores|ISCHEMIA, TOXIN| |
+|ATP|CELL DEATH|(necrosis)|Caspase cascade|
+|CELL DEATH|(apoptosis)| | |
+
+Figure 1.11 Roles of the mitochondria. Besides the efficient generation of adenosine triphosphate (ATP) from carbohydrate and fatty acid substrates, mitochondria also play an important role in intermediary metabolism serving as the source of substrates used to synthesize lipids, proteins, and nucleotides. Significantly, they are centrally involved in cell life-and-death decisions: (1) toxic or ischemic injury will induce membrane permeability transition that dissipates the intermembrane proton gradient leading to cell death through loss of ATP generation; (2) Intracellular signaling from both intrinsic and extrinsic sources can also result in the formation of oligomerized Bax and Bak protein pores on mitochondrial outer membrane permeabilization (MOMP) that facilitate release of cytochrome C from the electron transport chain proteins. Cytosolic cytochrome C stabilizes the multisubunit apoptosome to promote caspase activation and ultimately apoptotic cell death. TCA Tricarboxylic acid: lead to oxidative stress, characterized by increases in intracellular reactive oxygen species.
+
+Intermediate metabolism. Oxidative phosphorylation efficiently generates 36 to 38 ATP molecules per glucose molecule; but also "burns" substrates to their core CO2 and H2O, leaving no carbon moieties to use for lipids and proteins. Consequently, to ensure the necessary building blocks for growth, rapidly dividing cells (both benign and malignant) increase their uptake of glucose and glutamine and switch to aerobic glycolysis, a phenomenon called the Warburg effect. In that setting, each glucose molecule is converted to lactic acid (even in the presence of adequate oxygen), generating only two net ATP molecules but "spinning off" intermediates that can be converted into new lipids, amino acids, proteins, and nucleic acids. Thus mitochondrial metabolism can be modulated to support either cellular energy maintenance or cellular proliferation.
+
+Cell death. In addition to providing the ATP that enables the bulk of cellular activity, mitochondria are fundamental to cell survival. The role of mitochondria in cell death is detailed in Chapter 2 and briefly mentioned here: Necrosis: External cellular injury (toxin, ischemia, trauma) can damage mitochondria inducing the formation of mitochondrial permeability transition pores in the outer membrane. These channels allow the dissipation of the proton gradient so that subsequent mitochondrial ATP generation becomes impossible and the cell dies.
+
+CELLULAR ACTIVATION. Intercellular communication is essential to multicellular organisms. At the most basic level, extracellular signals may determine whether a cell lives or dies, remains quiescent, or...
+---
+# Cellular activation
+
+or becomes active to perform its specific functions Intercel-
+
+lular signaling is critical in the developing embryo and in maintaining tissue organization; it is also important in adult organisms, where intercellular signaling assures that all appropriate tissues act in concert in response to local
+
+tissue trauma or a systemic. Loss of intercellular communication and "social controls" can also be reflected in unregulated growth (e.g., cancer) or in detrimental responses to extrinsic stress (e.g., shock).
+
+# Cell Signaling
+
+Individual cells are chronically exposed to a remarkable cacophony of signals that must be integrated into rational output; some signals may induce a given cell type to differentiate, while others signal proliferation or direct the cell to perform specialized functions. Multiple signals at once, to a certain ratio, may trigger yet another totally unique response. Many cells require certain input just to continue living; in the absence of appropriate exogenous signals they die by apoptosis.
+
+The signals that most cells respond to can be classified into several groups:
+
+- Danger and pathogens: Many cells have an innate capacity to sense and respond to damaged cells (danger signals) as well as foreign invaders such as microbes. The involved receptors are discussed in Chapters 3 and 6.
+- Cell-cell contacts, mediated through adhesion molecules and/or gap junctions. As mentioned previously, gap junction signaling is accomplished between adjacent cells via hydrophilic connexon channels that permit the movement of small ions (e.g., calcium), metabolites, and second messenger molecules (e.g., cAMP).
+- Cell-ECM contacts, mediated through integrins. We will return to consideration of integrins in the context of leukocyte attachment to other cells during inflammation in Chapter 3.
+- Secreted molecules: most important secreted molecules include growth factors (discussed later); cytokines, a term reserved for mediators of inflammation and immune responses (discussed also in Chapters 3 and 6); and hormones, which are secreted by endocrine organs (Chapter 24).
+
+Signaling Pathways can also be classified based on the relationships between the sending and receiving cells.
+
+# Paracrine signaling
+
+Only cells in the immediate vicinity are affected. To accomplish this, there can be only minimal diffusion after which the secreted signal is rapidly degraded, taken up by other cells, or trapped in the ECM.
+
+# Autocrine signaling
+
+Occurs when molecules secreted by a cell affect that same cell. This can be a means to entrain groups of cells undergoing synchronous differentiation during development; or it can be used to amplify (positive feedback) or dampen (negative feedback) a particular response.
+
+# Synaptic signaling
+
+Activated neurons secrete neurotransmitters at specialized cell junctions (i.e., synapses) onto target cells.
+
+# Endocrine signaling
+
+The mediator is released into the bloodstream and acts on target cells at a distance.
+---
+# CHAPTER 18
+
+# The Cell as a Unit of Health and Disease
+
+|Nonreceptor tyrosine kinase| |Notch ligand| | |
+|---|---|---|---|---|
+|tyrosine kinase based receptor|GPCR ligand|hormone|Lrpsirp6|Wnt|
+|Ligand|Ligand|GPCR|Notch|Frizzled|
+|cleavage|Kinase|CAMP|Notch|Multi-subunit complex|
+|Nucleus|Transcription of nuclear hormone target gene|Transcription of Notch target gene|Transcription| |
+|Growth factor|Growth factor receptor|Faresyl membrane anchor| | |
+
+Figure 1.12 Receptor-mediated signaling (A) Categories of signaling receptors including (from left to right) receptors that utilize nonreceptor tyrosine kinase; receptor tyrosine kinase; G-protein coupled receptor (GPCR) seven-transmembrane protein linked to heterotrimeric G proteins; a nuclear receptor that binds its ligand and can then influence transcription; Notch; which recognizes ligand on distinct cell and is cleaved yielding an intracellular Notch (IC Notch) fragment that can enter the nucleus and influence transcription of specific target genes; the Wnt/Frizzled pathway where activation releases intracellular β-catenin from protein complex that normally drives its constitutive degradation. The released β-catenin can then migrate to the nucleus and act as transcription factor: (B) Signaling from tyrosine kinase-based growth factor receptor: Binding of the growth factor (ligand) causes receptor dimerization and autophosphorylation of tyrosine residues. Attachment of adaptor (or bridging) proteins couples the receptor to inactive guanosine diphosphate (GDP)-bound RAS, allowing the GDP to be displaced in favor of guanosine triphosphate (GTP) and yielding activated RAS: Activated RAS interacts with and activates RAF (also known as MAP kinase kinase). This kinase then phosphorylates mitogen-activated protein kinases (MAPK); which, in turn, phosphorylates other cytoplasmic proteins and nuclear transcription factors that culminate in cellular responses. The phosphorylated tyrosine kinase receptor can also bind other proteins such as phosphatidylinositol 3-kinase (PI3K), which activates additional signaling pathways. The cascade is inactivated when the activated RAS eventually hydrolyzes GTP to GDP converting RAS to its inactive form: Mutations in RAS that cause delayed GTP hydrolysis can thus lead to augmented proliferative signaling ATF; Adenosine triphosphate; cAMP adenosine cyclic monophosphate; LrpSILrp6, low-density lipoprotein receptor-related proteins 5 and 6; mTOR, mammalian Target of rapamycin.
+
+Cell cycle progression enzymes that ultimately lead to generation of active transcription factors that enter the nucleus and alter the pattern of gene expression: Receptors associated with kinase activity: Downstream serine or threonine residues, and lipid kinases phosphorylate lipid substrates: For every phosphorylation event; there is also a phosphatase that removes phosphate residues to modulate signaling; phosphatases usually inhibit signal transduction.
+---
+# Cellular activation
+
+# Receptor tyrosine kinases (RTKs) are integral membrane proteins
+
+Receptors for insulin, epidermal growth factor, and platelet-derived growth factor; ligand-linking activates intrinsic tyrosine kinase induced cross-linking activation triggers an orderly sequence of biochemical intermediates that ultimately leads to changes in gene expression and the desired biological response - is oversimplified. Instead, it is increasingly clear that any initial signal impacts multiple processes, each of which contributes to the final outcome. This is particularly true of signaling pathways that rely on enzymatic activity: For example; specific phosphorylation of a given protein can allow it to associate with a host of other molecules, resulting in:
+
+- Enzyme activation (or inactivation)
+- Nuclear (or cytoplasmic) localization of transcription factors (see later)
+- Transcription factor activation (or inactivation)
+- Actin polymerization (or depolymerization)
+- Protein degradation (or stabilization)
+- Activation of feedback inhibitory (or stimulatory) loops
+
+# G-protein coupled receptors (GPCRs)
+
+GPCRs characteristically traverse the plasma membrane seven times (hence their designation as seven-transmembrane or serpentine receptors); more than 1500 such receptors have been identified. After ligand binding, the GPCR associates with an intracellular guanosine triphosphate (GTP)-binding protein (G protein) that contains guanosine diphosphate (GDP): G-protein interaction with a GPCR-ligand complex results in activation through the exchange of GDP for GTP. Subsequent GPCR-mediated signaling pathways include the generation of cAMP and inositol-1A,5-triphosphate (IP3); with the latter triggering release of calcium from the ER.
+
+# Nuclear receptors
+
+Lipid-soluble ligands can diffuse into cells where they interact with intracellular proteins to form a receptor-ligand complex that directly binds to nuclear DNA; the results can be either activation or repression of gene transcription.
+
+# Other classes of receptors
+
+Other receptors originally recognized as important for embryonic development and cell fate determination - are now recognized to participate in the functioning of mature cells, particularly within the immune system. Rather than enzymatic activity, these pathways rely on protein-protein interactions to transduce signals:
+
+# Transcription Factors
+
+Most signal transduction pathways ultimately induce durable effects on cellular function by modulating gene transcription; this occurs through the activation and/or nuclear localization of transcription factors. Some transcription factors drive expression of a relatively limited set of genes or a specific genetic program while others have widespread effects. Among the transcription factors that regulate cell division are products of several growth-promoting genes, such as MYC and JUN, and of cell cycle-inhibiting genes, such as TP53. Transcription factors often contain modular domains that bind to DNA; small molecules such as steroid hormones, and intracellular regulatory proteins can influence these interactions.
+
+Interactions mediated by these domains can be controlled by posttranslational modifications such as phosphorylation: These changes can result in translocation from the cytoplasm into the nucleus, modify transcription factor protein half-life; expose specific DNA binding motifs, or promote binding to components of the RNA polymerase complex.
+---
+# CHAPTER 20
+
+# The Cell as a Unit of Health and Disease
+
+Binding sites are found in promoters near the location of transcription initiation; other transcription factor binding sites can be found throughout the genome; in the latter case, transcription factor activation may lead to the simultaneous transcription of a cassette of genes (presumably interrelated and interacting). Transcription factors may also bind to range regulatory elements such as enhancers that function by bringing gene promoters into geographic proximity to the genes they regulate. The fact that these sites may be distant from one another based on the linear genetic sequence emphasizes the importance of chromatin organization in regulating gene expression.
+
+Protein-protein interaction domains within transcription factors directly or indirectly recruit additional proteins including coactivators, histone-modifying enzymes, and chromatin-remodeling complexes that unwind and/or otherwise expose initiation sites. Most importantly, they recruit RNA polymerase—the large multiprotein enzymatic complex that is responsible for RNA synthesis.
+
+Growth factors regulate cellular proliferation at steady state and in response to injury, when irreversibly damaged cells must be replaced. Uncontrolled proliferation can result when the growth factor activity is dysregulated or when growth factor signaling pathways are altered to become constitutively active. Thus many growth factor pathway genes are proto-oncogenes; by virtue of their proliferative effects, gain-of-function mutations convert them into oncogenes that lead to unfettered cell division and can be precursors to malignancy.
+
+Although the growth factors described here all involve receptors with intrinsic kinase activity, growth factors can signal through each of the pathways shown in Fig: 1.12. Epidermal Growth Factor (EGF) and Transforming Growth Factor-a (TGF-α) belong to the EGF family, bind to overlapping sets of receptors, and share many biologic activities. EGF and TGF-α, which are produced by macrophages and some epithelial cells, are mitogenic for hepatocytes, fibroblasts, and a host of epithelial cell types.
+
+The "EGF receptor family" includes four membrane receptors with intrinsic tyrosine kinase activity; the best-characterized receptor is EGFR1, also known as ERB-B1, or simply EGFR. EGFR mutations and/or amplification frequently occur in a number of cancers including lung, head and neck, breast, and brain. The ERB-B2 receptor (also known as HER-2) is overexpressed in a subset of breast cancers. Antibodies and small molecule antagonists that target many of these receptors have proven effective in some cancers.
+
+Hepatocyte Growth Factor (HGF) (also known as scatter factor) has mitogenic effects on hepatocytes and most epithelium including biliary, lung, kidney, breast, and skin.
+
+# Table 1.1 Growth Factors Involved in Regeneration and Repair
+
+|Growth Factor|Sources|Functions|
+|---|---|---|
+|Epidermal growth factor (EGF)|Activated macrophages, salivary glands, keratinocytes, many other cells|Mitogenic for many cell types; stimulates epithelial cell migration; stimulates formation of granulation tissue|
+|Transforming growth factor-a (TGF-α)|Activated macrophages, keratinocytes, many other cells|Stimulates proliferation of hepatocytes and many other epithelial cells|
+|Hepatocyte growth factor (HGF) (scatter factor)|Fibroblasts, stromal cells in the liver; endothelial cells|Enhances proliferation of hepatocytes and other epithelial cells; increases cell motility|
+|Vascular endothelial growth factor (VEGF)|Mesenchymal cells|Stimulates proliferation of endothelial cells; increases vascular permeability|
+|Platelet-derived growth factor (PDGF)|Platelets, macrophages, endothelial cells; smooth muscle cells, keratinocytes|Chemotactic for neutrophils; macrophages; fibroblasts, and smooth muscle cells; activates and stimulates proliferation of fibroblasts, endothelial cells, other cells; stimulates ECM protein synthesis|
+|Fibroblast growth factors (FGFs) including acidic (FGF-1) and basic (FGF-2)|Macrophages, mast cells, endothelial cells, many other cell types|Chemotactic and mitogenic for fibroblasts; stimulates angiogenesis and ECM protein synthesis|
+|Transforming growth factor-β (TGF-β)|Platelets, T lymphocytes, macrophages, endothelial cells, epithelial cells; smooth muscle cells, fibroblasts|Chemotactic for leukocytes and fibroblasts; stimulates ECM protein synthesis; suppresses acute inflammation|
+|Keratinocyte growth factor (KGF) (i.e., FGF-7)|Fibroblasts|Stimulates keratinocyte migration; proliferation; and differentiation|
+
+---
+# Extracellular matrix
+
+HGF acts as a morphogen in embryonic development (i.e., permeability that causes adult-onset blindness) angiogenesis influences the pattern of tissue differentiation, promotes cell migration (hence the designation scatter factor), and enhances hepatocyte survival. HGF is produced by fibroblasts and most mesenchymal cells, endothelial cells, and non-hepatocyte liver cells. It is synthesized as an inactive precursor (pro-HGF) that is proteolytically activated by serine proteases released at sites of injury. The receptor for HGF is MET, which has intrinsic tyrosine kinase activity. MET is frequently overexpressed or mutated in tumors, particularly renal and thyroid papillary carcinomas. Consequently, MET inhibitors are being evaluated for cancer therapy.
+
+# Platelet-derived Growth Factor (PDGF)
+
+PDGF is a family of several closely related proteins, each consisting of two chains (designated by pairs of letters). Three isoforms of PDGF (AA, AB, and BB) are directly biologically active; PDGF-CC and PDGF-DD must be activated by proteolytic cleavage. PDGF proteins are stored in cytoplasmic granules and released by activated platelets. Although originally isolated from platelets (hence the name), PDGFs are produced by many cells including activated macrophages, endothelium, smooth muscle cells, and tumors. All PDGF isoforms exert their effects by binding to two cell-surface receptors (PDGFR α and β), both of which have intrinsic tyrosine kinase activity. PDGF induces fibroblast, endothelial, and smooth muscle cell proliferation and is also chemotactic for these cells (and inflammatory cells), thereby promoting their recruitment to sites of inflammation and tissue injury.
+
+# Transforming Growth Factor β (TGF-β)
+
+TGF-β has three isoforms (TGF-β1, TGF-β2, TGF-β3) that belong to a larger family of about 30 members including bone morphogenetic proteins (BMPs), activins, inhibins, and Mullerian inhibiting substance. TGF-β1 has the most widespread distribution and is commonly referred to simply as TGF-β; it is a homodimeric protein produced by multiple cell types including platelets, endothelium, epithelial cells, and inflammatory cells. TGF-β is secreted as a precursor that requires proteolysis to yield the biologically active protein. There are two TGF-β receptors (types I and II) both with serine/threonine kinase activity that induce the phosphorylation of a variety of downstream transcription factors called Smads. Phosphorylated Smads form heterodimers, allowing nuclear translocation and association with other DNA-binding proteins to activate gene transcription. TGF-β signaling has multiple—and often opposing—effects, depending on the tissue type and any concurrent signals. Agents with such multiplicity of effects are called pleiotropic, and TGF-β is "pleiotropic with a vengeance." Primarily, however, TGF-β can be conceptualized as driving scar formation and putting a brake on the inflammation that accompanies wound healing.
+
+TGF-β stimulates the production of collagen, fibronectin, and proteoglycans and inhibits collagen degradation by both decreasing matrix metalloproteinase (MMP) activity and increasing the activity of tissue inhibitors of proteinases (TIMPs). TGF-β is involved not only in scar formation after injury but also drives fibrosis in the liver, intestines, and kidneys in the setting of chronic inflammation. TGF-β is also an anti-inflammatory cytokine that serves to limit and terminate inflammatory responses. It does this by inhibiting lymphocyte proliferation and activity of other leukocytes. Animals lacking TGF-β have widespread and persistent inflammation.
+
+# Vascular Endothelial Growth Factor (VEGF)
+
+VEGFs are homodimeric proteins: VEGF-A, VEGF-B, VEGF-C, VEGF-D, and placental growth factor (PIGF). VEGF-A is generally referred to simply as VEGF; it is the major angiogenic factor (inducing blood vessel development) after injury and in tumors. In comparison, VEGF-B and PIGF are involved in embryonic vessel development, and VEGF-C and VEGF-D stimulate both angiogenesis and lymphatic development (lymphangiogenesis). Separate from their roles in angiogenesis, VEGFs are also involved in the maintenance of normal endothelium with the highest expression in epithelial cells adjacent to fenestrated epithelium, kidney podocytes, retinal pigment epithelium, and choroid plexus. VEGF induces all the activities necessary for angiogenesis, including endothelial cell migration and proliferation (capillary sprouting), and promotes formation of vascular lumina. VEGF also affects vascular dilation and increases vascular permeability (VEGF was originally called vascular permeability factor to reflect that activity).
+
+As might be anticipated, hypoxia is the most important inducer of VEGF production, through pathways that involve activation of the transcription factor hypoxia-inducible factor 1 (HIF-1). Other VEGF inducers produced at sites of inflammation or wound healing include PDGF and TGF-α. VEGFs bind to a family of tyrosine kinase receptors (VEGFR-1, VEGFR-2, and VEGFR-3); VEGFR-2 is highly expressed in endothelium and is the most important for angiogenesis. Antibodies against VEGF are approved for the treatment of tumors such as renal and colon cancers that require angiogenesis for their spread and growth. Anti-VEGF therapies have had success in ophthalmic disorders including age-related macular degeneration (a disorder of inappropriate angiogenesis and vascular leakage).
+
+The ECM is a protein network that constitutes a significant proportion of any tissue. Cell interactions with the ECM are critical for development, healing, and maintenance.
+---
+# 22 CHAPTER The Cell as a Unit of Health and Disease
+
+normal tissue architecture (Fig: 1.13). Much more than a simple 'space filler' around cells, the ECM functions as:
+
+- Mechanical support for cell anchorage, cell migration, and maintenance of cell polarity binding
+- Regulator of cell proliferation by displaying growth factors and by signaling via cellular integrin family receptors. The ECM provides a depot for latent growth factors that can be activated within foci of injury or inflammation
+- Scaffolding for tissue renewal. Because maintenance of normal tissue structure requires a basement membrane or stromal scaffolds, integrity of the basement membrane of the stroma of parenchymal cells is critical for organized tissue regeneration. Thus ECM disruption prevents effective tissue regeneration and repair
+- Foundation for establishment of tissue microenvironments. Basement membrane acts as a boundary between epithelium and underlying connective tissue but often does more than just provide structural support; for example, in the kidney, it forms part of the filtration apparatus
+
+Interstitial matrix. Interstitial matrix occupies the spaces between stromal cells within connective tissue and between parenchymal epithelium and the underlying supportive vascular and smooth muscle structures in some organs. Interstitial matrix is synthesized by mesenchymal cells (e.g., fibroblasts), a three-dimensional, relatively amorphous, semi-fluid gel. In some tissues, such as the gastrointestinal tract, urinary bladder, and periarterial soft tissues, fluid within matrix cushions tissue compression associated with peristalsis, urination, and pulsatile arterial blood flow. The major nonfluid constituents of the interstitial matrix are fibrillar and nonfibrillar collagens, as well as fibronectin, elastin, proteoglycans, hyaluronate, and other constituents (see later):
+
+|Laminin|EXTRACELLULAR|MATRIX|
+|---|---|---|
+|Collagen|Fibronectin|Growth factor|
+|Growth factor receptor|Focal adhesion complexes|Actin cytoskeleton|
+|CYTOPLASMIC SIGNAL TRANSDUCTION|PATHWAYS|Nucleus|
+|PROLIFERATION, DIFFERENTIATION, PROTEIN SYNTHESIS, ATTACHMENT|MIGRATION; SHAPE CHANGE| |
+
+Figure 1.13 Interactions of extracellular matrix (ECM) and growth factors to mediate cell signaling. Cell surface integrins interact with the cytoskeleton at focal adhesion complexes (protein aggregates that include vinculin, α-actinin, and talin; see Fig 4.17C). This can initiate the production of intracellular messengers or can directly transduce signals to the nucleus. Cell-surface receptors for growth factors can activate signal transduction pathways that overlap with those mediated through integrins. Signals from both ECM interactions and growth factors can be integrated by the cells to produce specific responses, including changes in proliferation, locomotion, or differentiation.
+---
+# Extracellular matrix
+
+# Epithelium
+
+# Integrins
+
+# BASEMENT MEMBRANE
+
+|Type IV collagen|Laminin|Proteoglycan|
+|---|---|---|
+|Integrins|Endothelial cells|Adhesive glycoproteins|
+|Capillary|Integrins|Fibroblast|
+
+# INTERSTITIAL MATRIX
+
+|Proteoglycan|Type IV collagen|Fibrillar collagens|
+|---|---|---|
+|Elastin|Proteoglycan and hyaluronan|Cross-linked collagen triple helices|
+
+Figure 1.14 Main components of the extracellular matrix (ECM) including collagens, proteoglycans, and adhesive glycoproteins. Both epithelial and mesenchymal cells (e.g., fibroblasts) interact with ECM via integrins. Basement membranes and interstitial ECM have different architecture and general composition; although certain components are present in both. For the sake of clarity, many ECM components (e.g., elastin, fibrillin, hyaluronan, and syndecan) are not shown.
+
+Basement membrane organized around epithelial cells, endothelial cells, and smooth muscle cells, where it forms basement membranes, specialized surfaces for cell growth. Basement membrane components, which are synthesized by the overlying epithelium and underlying mesenchymal cells, form flat lamellar mesh (although labeled as a membrane; it is quite porous). The major constituents are nonfibrillar type IV collagen and laminin.
+
+Components of the Extracellular Matrix (Fig: 1.15) ECM components fall into three families:
+
+- Fibrous structural proteins such as collagens and elastin that confer tensile strength and recoil.
+- Water-hydrated gels such as proteoglycans and hyaluronan that permit compressive resistance and lubrication.
+- Adhesive glycoproteins that connect ECM elements to one another and to cells.
+
+Collagens: Collagens composed of three separate polypeptide chains braided into a ropelike triple helix (Fig: 1.16). About 30 collagen types have been identified, some of which are unique to specific cells and tissues.
+
+Fibrillar collagens: Some collagen types (e.g., types I, II, III, and V) form linear fibrils stabilized by interchain hydrogen bonding; such fibrillar collagens comprise a major proportion of the connective tissue in bone, tendon, cartilage, blood vessels, and skin as well as in healing wounds and scars. The tensile strength of the fibrillar collagens derives from lateral cross-linking of the triple helices via covalent bonds that follow lysine hydroxylation, responsible for the enzyme; lysyl hydroxylase, dependent on vitamin C, explaining why children with vitamin C deficiency have skeletal deformities and why individuals of any age with vitamin C deficiency heal poorly and bleed easily.
+
+Genetic defects, including collagen and lysyl hydroxylase mutations, cause diseases such as osteogenesis imperfecta and certain forms of Ehlers-Danlos syndrome (Chapter 5).
+
+Proteoglycans and Hyaluronan (see Fig: 1.15B). Proteoglycans form highly hydrated compressible gels that confer resistance to compressive forces; in joint cartilage, proteoglycans also provide a layer of lubrication between adjacent bony surfaces. Proteoglycans consist of long polysaccharides.
+---
+# CHAPTER 24
+
+# The Cell as a Unit of Health and Disease
+
+|Short section of a collagen fibril|Chondroitin sulfate|Heparan sulfate proteoglycan matrix|
+|---|---|---|
+|Collagen molecule|Keratan sulfate|Hyaluronic acid backbone|
+|Link protein -|Free bFGF|bFGF complexed with heparan sulfate|
+|Elastic fiber|Link protein-|Hyaluronic acid-|
+|Core protein -|Na+|STRETCH|
+|RELAX|Sulfated sugars|Na+|
+|FGF receptor|Syndecan|FGF receptor|
+|Elastin molecule|Cross-link|Actin|
+|Cytosol|Fibrillar collagen and elastin|B. Proteoglycan|
+|C|bFGF regulation by association with the extracellular matrix| |
+
+Figure 1.15 Extracellular matrix (ECM) components: (A) Fibrillar collagen and elastic tissue structures Due to rodlike fibril stacking and extensive lateral linking collagen fibers have marked tensile strength but do not have much elasticity: Elastin is also cross-linked but differs in having large hydrophobic cross-segments that form a dense globular configuration at rest. As stretch is exerted, the hydrophobic domains are pulled open, but the cross-links keep the tissue intact; release of the stretch tension allows the hydrophobic domains of the proteins to refold: (B) Proteoglycan structure The highly negatively charged sulfated sugars on the proteoglycan "bristles" attract sodium and water to generate viscous but compressible matrix (C) Regulation of basic fibroblast growth factor (bFGF also known as FGF-2) activity by ECM and cellular proteoglycans. Heparan sulfate binds bFGF secreted in the ECM: Syndecan is a cell surface proteoglycan with transmembrane core protein and extracellular glycosaminoglycan side chains that can bind bFGF and facilitate bFGF cytoplasmic tail that interacts with the intracellular actin cytoskeleton. Syndecan side chains bind bFGF released from damaged ECM, thus interaction with cell-surface receptors FGF Fibroblast growth factor: called glycosaminoglycans (examples are keratan sulfate and chondroitin sulfate) attached to a core protein; these are then linked to a long hyaluronic acid polymer called hyaluronan, in a manner reminiscent of the bristles on a round brush. The highly negatively charged nature of the densely sulfated sugars attracts cations (mostly sodium) and packed with them abundant osmotically attracted water- producing a gel-like matrix. Besides providing compressibility to tissues, proteoglycans also serve as reservoirs for growth factors secreted into the ECM (e.g., FGF and HGF): Some proteoglycans are integral cell membrane proteins that have roles in cell proliferation, migration, and adhesion (e.g., by binding and concentrating growth factors and chemokines).
+
+Laminin is the most abundant glycoprotein in basement membranes. It is an 820-kDa cross-shaped heterotrimer that connects cells to underlying ECM components such as type IV collagen and heparan sulfate. Laminin can also modulate cell proliferation, differentiation, and motility.
+
+Adhesive Glycoproteins and Adhesion Receptors: Adhesive glycoproteins and adhesion receptors are structurally diverse molecules variously involved in cell-cell, cell-ECM, and ECM-ECM interactions. Prototypical adhesive glycoproteins include fibronectin (a major component of the interstitial ECM) and laminin (a major constituent of basement membrane): Integrins are a large family of transmembrane heterodimeric glycoproteins composed of α- and β-subunits; these allow cells to attach to ECM constituents such as laminin and fibronectin, thus functionally and structurally mediating cell attachment to basement membrane; Integrins also facilitate cell-cell adhesive interactions; on leukocytes, they mediate the firm adhesion to and migration across endothelium and epithelium at sites of healing.
+---
+# Maintaining cell populations
+
+# CELL
+
+# EXTRACELLULAR SPACE
+
+|DNA|Translatlon|PROCOLLAGEN|
+|---|---|---|
+|mRNA|NHz|Mature|
+|Splicing|Hydroxylatlon|Cleavage of propeptides|
+|NUCLEUS|OH 0-Gal-Glu|COLLAGEN|
+|0-Gal|Gal|'NHz|
+|Chain selection|HQ|OH|
+|OH|ANHz|Glycosylatlon|
+|ENDOPLASMIC RETICULUM|Helix|(Lysyl hydroxylysyl oxidation)|
+|GOLGI|Tormation|Cross-linking|
+
+Figure 1.16 Collagen biosynthetic pathway Some collagen types are heterotrimers (types I, V, and XI) while others are homotrimers (types II and III). The α-chains that make up fibrillar collagen molecules are synthesized as precursor pro-α-chains, with large globular polypeptide regions flanking the central triple-helical domain: After proline and lysine hydroxylation and lysine glycosylation within the endoplasmic reticulum; three procollagen chains align; form triple helix. For all the fibrillary collagens, the carboxyl end of the propeptide is completely removed by endoproteinase activity after secretion; and the resulting triple helical rodlike domains polymerize in staggered fashion to form fibrils. The N-terminus propeptide is variably processed depending on the collagen chain. For collagen types I and II, the N-propeptide processing is complete; while for collagens V and XI, a large portion of the N-propeptides remain attached; such "incomplete" processing can regulate fibril size. After secretion, collagen achieves lateral stability through cross-linking involving lysyl oxidase and the previously hydroxylated residues. mRNA Messenger RNA defects in primary sequence, procollagen endopeptidase processing; hydroxylation; or cross-linking can all lead to connective tissue laxity. The specific structures (e.g., blood vessels, skin, bone; ligaments) affected by such disorders are predictable based on the collagen that predominates in that tissue.
+
+Inflammation (Chapter 3); they also play a critical role in platelet aggregation (Chapter 4): Integrins attach to ECM components via tripeptide arginine-glycine-aspartic acid motif (abbreviated RGD): Besides providing underlying substrates, binding through focal attachment to triggers signaling cascades that regulate cell locomotion, shape, and differentiation (see Fig: 1.17).
+
+# MAINTAINING CELL POPULATIONS
+
+# Proliferation and the Cell Cycle
+
+Cell proliferation is fundamental to organism development; to maintenance of steady-state tissue homeostasis, and to replacement of dead or damaged cells. The key elements of cellular proliferation are accurate DNA replication, coordinated synthesis of other cellular components, and equal apportionment of DNA and organelles to daughter cells through the processes of mitosis and cytokinesis. The sequence of events that results in cell proliferation is called the cell cycle; it consists of G1 (gap 1), S (DNA synthesis), G2 (gap 2), and M (mitotic) phases; quiescent cells that are not actively cycling are in the G0 (gap 0) state (Fig: 1.18). Cells can enter G1 either from the G0 quiescent cell pool or after completing a round of mitosis. Each stage requires completion of the previous step, as well as activation of necessary factors (see later); nonfidelity of DNA replication or cofactor deficiency results in arrest at various transition points. The cell cycle is regulated by activators and inhibitors.
+
+Cell cycle progression is chaperoned by proteins called cyclins named for the cyclic nature of their production and degradation - and cyclin-associated enzymes called cyclin-dependent kinases (CDKs) (Fig: 1.19). Constitutively synthesized CDKs acquire kinase activity that is, the ability to phosphorylate protein substrates by forming complexes with the relevant cyclins. Transiently increased synthesis of a particular cyclin thus leads to increased kinase activity of the appropriate CDK binding partner; as the CDK completes a round of phosphorylation, the associated cyclin is degraded and CDK activity abates. Consequently, as cyclin levels rise and fall, activity of associated CDKs will likewise wax and wane. More than 15 cyclins have been identified; cyclins D, E, A, and B appear sequentially during the cell cycle and bind to one or more CDKs. The cell cycle thus resembles a relay.
+---
+# CHAPTER 26
+
+# The Cell as a Unit of Health and Disease
+
+|HzN|Heparan-|NHz|
+|---|---|---|
+|binding|chain|Extracellular matrix|
+|Fibrin-|binding| |
+|domains|Collagen-|binding|
+|domains|Integrin-|Type IV|
+|binding|collagen|Cell binding domain|
+|Talin|Paxillin|Vinculin|
+|Vinculin|Tensin| |
+|Heparan-|binding|domains|
+|Fibrin-|binding| |
+|domains|Neurite|Actin|
+|HOOC|binding|site|
+|COOH|Heparan|Kinases|
+|sulfate|proteoglycan| |
+
+FIBRONECTIN LAMININ binding site
+
+Figure L.17 Cell and extracellular matrix (ECM) interactions: adhesive glycoproteins and integrin signaling (A) Fibronectin consists of disulfide-linked dimer; with several distinct domains that allow binding to ECM and to integrins, the latter through arginine-glycine-aspartic acid (RGD) motifs. (B) The cross-shaped laminin molecule is one of the major components of basement membranes; its multidomain structure allows interactions between type IV collagen, other ECM components, and cell-surface receptors: (C) Integrins and integrin-mediated signaling events at focal adhesion complexes Each &-8 heterodimeric integrin receptor is transmembrane dimer that links ECM and the intracellular cytoskeleton. Focal adhesion complexes include linking molecules(eg,vinculin and talin) that can recruit and activate kinases and, ultimately; trigger downstream signaling cascades:
+
+|Chromosome duplication|Check for|Check for|
+|---|---|---|
+| |DNA damage|damaged or unduplicated DNA|
+|(G1/S checkpoint)| |(G2/M checkpoint)|
+|Restriction point|Centrosome duplication|Mitosis|
+|Growth in mass| |Cell division|
+
+Figure /.18 Cell cycle landmarks The figure shows the cell cycle phases (G0, G1, S, and M), the location of the G restriction point; and the G1/S and G2/M cell cycle checkpoints. G1 restriction point refers to the stage in G1 where the cell is committed to advance further into the cell cycle without requiring any more of the growth signal that initiated cell division. Cells from labile tissues such as the epidermis and the gastrointestinal tract may cycle continuously; stable cells such as hepatocytes are quiescent but can enter the cell cycle; permanent cells such as neurons and cardiac myocytes have lost the capacity to proliferate: (Modified from Pollard TD; Earnshaw WC: Cell Biology, Philadelphia, 2002, Saunders)
+---
+# Maintaining cell populations
+
+# CDK inhibitors
+
+|CDK inhibitors|p19|p21|p27|p57|
+|---|---|---|---|---|
+|CDK|P18| | | |
+|P16|p15|L|CDK2|p57|
+|Cyclin|CDK4|CDK6|Cyclin|p21I|
+|Rb|pRb|CDK2|Cyclin|P27|
+| |CDKI|p57| | |
+| |p57|p27|p21| |
+
+Figure 1.19 Role of cyclins, cyclin-dependent kinases (CDKs) and CDK Inhibitors (CDKIs) in regulating the cell cycle: Shaded arrows represent the phases of the cell cycle during which specific cyclin-CDK complexes are active. As illustrated, cyclin D-CDK4, cyclin D-CDK6 and cyclin E-CDK2 regulate the G1-to-S transition by phosphorylating the Rb protein (pRb). Cyclin A-CDK2 and cyclin A-CDK are active in the S phase. Cyclin B-CDKI is essential for the G2-to-M transition. Two families of CDK inhibitors can block activity of CDKs and progression through the cell cycle. The so-called INK4 inhibitors, composed of p15, p16, p19 act on cyclin D-CDK4 and cyclin D-CDK6. The other family of three inhibitors, p21, p27, and p57, can inhibit all CDKs.
+
+One family of CDKIs composed of three proteins called p21 (CDKN1A), p27 (CDKN1B), and p57 (CDKN1C) broadly inhibits multiple CDKs. Surveillance mechanisms primed to sense DNA chromosomal damage are embedded within the cell cycle. These quality control checkpoints ensure that cells with genetic imperfections do not complete replication. Thus the G1-S checkpoint monitors DNA integrity before irreversibly committing cellular resources to DNA replication. Later in the cell cycle, the G2-M restriction point ensures that there has been accurate genetic replication before the cell actually divides. When cells do detect DNA irregularities, checkpoint activation delays cell cycle progression and triggers DNA repair mechanisms. If the genetic derangement is too severe to be repaired, cells either undergo apoptosis or enter a nonreplicative state called senescence primarily through p53-dependent mechanisms (see later).
+
+Enforcing the cell cycle checkpoints is the job of CDK inhibitors (CDKIs); they accomplish this by modulating CDK-cyclin complex activity. There are several different CDKIs. An equally important aspect of cell growth and division is the biosynthesis of the membranes, cytosolic proteins, and organelles necessary to make two daughter cells. Thus, as growth factor receptor signaling stimulates cell cycle progression, it also activates events that promote the metabolic changes that support growth. Chief among these is the switch to aerobic glycolysis (with the counter-intuitive oxidative phosphorylation), also called the Warburg effect. These alterations in cell metabolism are an...
+---
+# 28 CHAPTER The Cell as a Unit of Health and Disease
+
+important element in cancer cell growth and are discussed in greater detail in Chapter 7.
+
+# Stem Cells
+
+Stem cells have the dual property of being able to self-renew and to give rise to differentiated cells and tissues. During development, totipotent stem cells can give rise to the full range of differentiated tissues; in the mature organism, adult stem cells only have the capacity to replace damaged cells and maintain cell populations within the tissues where they reside. There are also populations of stem cells between these extremes with varying capacities to differentiate into multiple (but limited) cell lineages. Thus depending on the source and stage of development, there are limits on the cell types that a stem cell can generate.
+
+In normal tissues without healing degeneration or neoplasia, there is homeostatic equilibrium between replication, self-renewal, and differentiation of stem cells and death of mature, fully differentiated cells. Tissue stem cells (also called adult stem cells) are found in intimate association with the differentiated cells of a given tissue. They are normally protected within specialized tissue microenvironments called stem cell niches. Such niches have been demonstrated in many organs, most notably the bone marrow, where hematopoietic stem cells characteristically congregate in perivascular niches, and in the intestines, where epithelial stem cells are confined to the crypts. Other stem cell niches include the bulge region of hair follicles, the limbus of the cornea, and the subventricular zone in the brain. Soluble factors and other cells within the niches regulate the balance between stem cell quiescence and expansion and differentiation.
+
+Adult stem cells have a limited repertoire of differentiated cells that they can generate. Thus although adult stem cells can maintain tissues with high (e.g., skin and gastrointestinal tract) or low (e.g., endothelial) cell turnover, the adult stem cells in any given tissue can usually produce only those cells normally found within that tissue.
+
+# Proliferation
+
+Hematopoietic stem cells continuously replenish all the cellular elements of the blood as they exit the circulation, senesce, or are otherwise consumed. They can be isolated directly from bone marrow, as well as from the peripheral blood after administration of certain colony-stimulating factors that induce their release from bone marrow niches. Although they are overall rare, hematopoietic stem cells can be purified to virtual purity based on cell surface markers. Clinically, these stem cells can be used to repopulate marrows depleted after chemotherapy (e.g., for leukemia) or to provide normal precursors to correct various blood cell defects (e.g., sickle cell disease; see Chapter 14).
+
+Besides hematopoietic stem cells, the bone marrow (and notably, other tissues such as fat) also contains a population of mesenchymal stem cells. These are multipotent cells that can differentiate into a variety of stromal cells including chondrocytes (cartilage), osteocytes (bone), adipocytes (fat), and myocytes (muscle). Because these cells can be massively expanded and can generate locally immunosuppressive microenvironments (thus potentially evading rejection), they represent a means of manufacturing scaffoldings for tissue regeneration.
+
+Figure 20 Mechanisms regulating cell populations. Cell numbers can be altered by increased or decreased rates of stem cell input, cell death resulting from apoptosis, or changes in the rates of proliferation or differentiation: (Modified from McCarthy NJ, et al: Apoptosis in the development of the immune system: growth factors, clonal selection and bcl-2, Cancer Metastasis Rev | 1:57, 1992.)
+---
+# Maintaining cell populations
+
+|Totipotent|Pluripotent|Multipotent|Lineage committed|Differentiated cells|
+|---|---|---|---|---|
+|stem cell|stem cells|stem cells|stem cells|Endoderm derived|
+|Inner|Mesoderm derived|Mesoderm derived|Mesoderm derived|Mesoderm derived|
+|Zygote|cell mass|Culture|Ectoderm derived|Ectoderm derived|
+|Blastocyst|Blastocyst|Blastocyst|Blastocyst|Blastocyst|
+
+Embryonic stem cell (ES cell)
+
+|Pancreatic islet cells|Hepatocytes|
+|---|---|
+|Hematopoietic cells|Neurons|
+|Cardiomyocytes|Cardiomyocytes|
+
+Figure 1.21 Embryonal stem (ES) cells: The zygote, formed by the union of sperm and egg, divides to form blastocysts, and the inner cell mass of the blastocyst generates the embryo. The pluripotent cells of the inner cell mass, known as ES cells, can be induced to differentiate into cells of multiple lineages. In the embryo, pluripotent stem cells can asymmetrically divide to yield residual stable ES cells in addition to generating populations that have progressively more restricted developmental capacity, eventually generating stem cells that are committed to just specific lineages. ES cells can be cultured in vitro and induced to differentiate into cells characteristic of all three germ layers.
+
+# Regenerative Medicine
+
+The burgeoning field of regenerative medicine has been made possible by the ability to identify, isolate, expand, and transplant stem cells. Theoretically, the differentiated progeny of ES or adult stem cells can be used to repopulate damaged tissues or even to construct entire replacement organs. There is, therefore, considerable interest in therapeutic opportunities for restoring tissues that have low regenerative capacity, such as myocardium or neurons, to promote healing after myocardial infarction or stroke, respectively. Despite improved ability to purify and expand stem cells, success has thus far been limited by difficulties in introducing and functionally integrating replacement cells at sites of damage.
+
+Another issue arises from the immunologic reactivity of most stem cells. Although mesenchymal stem cells may be relatively immunologically privileged, most other adult stem cells, as well as ES cells (from fertilized blastocysts), express histocompatibility molecules—human leukocyte antigen (HLA) in humans (see Chapters 3 and 6)—that provoke immunologic rejection when transplanted. Hence, considerable effort has been expended to generate cells with the totipotential characteristics of ES cells from cells that can be harvested from an individual patient. This would, in principle, allow new tissues to be generated and transplanted.
+
+# Skin and Intestinal Stem Cells
+
+|A. Skin|B. Intestine|C. Liver|
+|---|---|---|
+|Hair Epidermal stem cells|Small intestinal crypt base columnar (CBC) stem cells|Liver stem cells (oval cells)|
+|Dermis|Located at the base of the crypt interspersed between Paneth cells|Located in the canals of Hering (thick arrow), structures that connect bile ductules (thin arrow) to parenchymal hepatocytes|
+|Sebaceous gland|Bile duct cells and canals of Hering are highlighted here by an immunohistochemical stain for cytokeratin 7.|Bile duct cells and canals of Hering are highlighted here by an immunohistochemical stain for cytokeratin 7.|
+|Hair follicle bulge| | |
+|Bulge stem cells| | |
+|Transit amplifying zone| | |
+|Paneth cell| | |
+|Stem cell| | |
+
+Figure 1.22 Stem cell niches in various tissues: (A) Skin stem cells are located in the bulge area of the hair follicle; in sebaceous glands, and in the lower layer of the epidermis. (B) Small intestinal crypt base columnar (CBC) stem cells are located at the base of the crypt interspersed between Paneth cells. (C) Liver stem cells (oval cells) are located in the canals of Hering (thick arrow), structures that connect bile ductules (thin arrow) to parenchymal hepatocytes. Bile duct cells and canals of Hering are highlighted here by an immunohistochemical stain for cytokeratin 7. (C, Courtesy Tania Roskams, MD; University of Leuven, Belgium.)
+---
+# CHAPTER
+
+# The Cell as a Unit of Health and Disease
+
+Patients cell Genes for stem-ness Minarovits J, Banati F, Szenthe K et al: Epigenetic regulation, Adv Exp Med Biol 879.1, 2016. [A brief primer on the pathways that regulate chromatin structure accessibility]:
+
+Rowley MJ, Corces VG: The three-dimensional genome: principles and roles of long-distance interactions, Curr Opin Cell Biol 40.8, 2016. [An interesting discussion regarding the mechanisms by which three-dimensional conformations can influence nuclear transcription]:
+
+Cells in culture Sun Q, Hao Q, Prasanth KV: Nuclear long noncoding RNAs: key regulators of gene expression; Trends Genet 2017. [An up-to-date review on long noncoding RNA on chromatin organization, as well as transcriptional and posttranscriptional gene expression]:
+
+Wright AV, Nunez JK, Doudna JA: Biology and applications of CRISPR systems: harnessing nature's toolbox for genome engineering Cell 164.29, 2016. [A superb review on CRISPR-Cas from some of the researchers who discovered its possible applications]:
+
+# Patient-specific induced pluripotent stem cells (IPS)
+
+Housekeeping Cellular Differentiation in vitro Andersson ER: The role of endocytosis in activating and regulating signal transduction, Cell Mol Life Sci 69.1755, 2011 [Overview of endocytosis with specific emphasis on its role in modulating intracellular signaling]:
+
+Choi AM, Ryter SW, Levine B: Autophagy in human health and disease N Engl Med 368.651, 2013. [Superb review concerning the physiologic and pathophysiologic aspects of autophagy]:
+
+English AR, Zurek N, Voeltz GK: Peripheral ER structure and function Curr Opin Cell Biol 21.596, 2009. [Overview of the structural and functional organization of the endoplasmic reticulum and its relationship to other cellular organelles]:
+
+|Ectoderm|Mesoderm|Endoderm|
+|---|---|---|
+|Figure 1.23 Induced pluripotent stem (iPS) cells: Genes that confer stem cell properties are introduced into patients differentiated cells, giving rise to stem cells that can be induced to differentiate into various lineages:|Figure 1.23 Induced pluripotent stem (iPS) cells: Genes that confer stem cell properties are introduced into patients differentiated cells, giving rise to stem cells that can be induced to differentiate into various lineages:|Figure 1.23 Induced pluripotent stem (iPS) cells: Genes that confer stem cell properties are introduced into patients differentiated cells, giving rise to stem cells that can be induced to differentiate into various lineages:|
+
+(Modified from Hochedlinger K, Jaenisch R: Nuclear transplantation embryonic stem cells, and the potential for cell therapy N Engl Med 349.275, 2003)
+
+without fear of immunologic rejection. To accomplish this, a handful of genes have been identified whose products remarkably reprogram somatic cells to achieve the stem-ness of ES cells. When such genes are introduced into fully differentiated cells (eg, fibroblasts), induced pluripotent (iPS) cells are generated (Fig: 1.23). While not in practice; their differentiated progeny could be remarkable therapeutic agents, e.g., by generating insulin-secreting p cells in a patient with diabetes.
+
+# Concluding Remarks
+
+This survey of selected topics in cell biology will serve as a basis for our later discussions of pathology, and we will refer back to it throughout the book. Students should, however, remember that this summary is intentionally brief, and more information about some of the fascinating topics reviewed here can be readily found in textbooks devoted to cell and molecular biology

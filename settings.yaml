@@ -6,7 +6,7 @@ llm:
   type: openai_chat # or azure_openai_chat
   model: mistral
   model_supports_json: true # recommended if this is available for your model.
-  # max_tokens: 4000
+  #max_tokens: 4000
   # request_timeout: 180.0
   api_base: http://localhost:11434/v1
   # api_version: 2024-02-15-preview
@@ -17,7 +17,7 @@ llm:
   # max_retries: 10
   # max_retry_wait: 10.0
   # sleep_on_rate_limit_recommendation: true # whether to sleep when azure suggests wait-times
-  # concurrent_requests: 25 # the number of parallel inflight requests that may be made
+  #concurrent_requests: 25 # the number of parallel inflight requests that may be made
 
 parallelization:
   stagger: 0.3
@@ -41,9 +41,9 @@ embeddings:
     # max_retries: 10
     # max_retry_wait: 10.0
     # sleep_on_rate_limit_recommendation: true # whether to sleep when azure suggests wait-times
-    # concurrent_requests: 25 # the number of parallel inflight requests that may be made
-    # batch_size: 16 # the number of documents to send in a single request
-    # batch_max_tokens: 8191 # the maximum number of tokens to send in a single request
+    #concurrent_requests: 25 # the number of parallel inflight requests that may be made
+    #batch_size: 16 # the number of documents to send in a single request
+    #batch_max_tokens: 8191 # the maximum number of tokens to send in a single request
     # target: required # or optional
   
 
@@ -83,7 +83,7 @@ entity_extraction:
   ## parallelization: override the global parallelization settings for this task
   ## async_mode: override the global async_mode settings for this task
   prompt: "prompts/entity_extraction.txt"
-  entity_types: [organization,person,geo,event]
+  entity_types: [organization,person,geo,event, disease, symptom, drug, treatment, anatomical, clinical, diagnostic, demographics, gene, protein, mutation, cell, biological, molecular, pathway, organism, chemical, phenotype, pathway, biomarker]
   max_gleanings: 0
 
 summarize_descriptions:
@@ -102,11 +102,11 @@ claim_extraction:
   description: "Any claims or facts that could be relevant to information discovery."
   max_gleanings: 0
 
-community_report:
+community_reports:
   ## llm: override the global llm settings for this task
   ## parallelization: override the global parallelization settings for this task
   ## async_mode: override the global async_mode settings for this task
-  prompt: "prompts/community_report.txt"
+  prompt: "prompts/community_reports.txt"
   max_length: 2000
   max_input_length: 8000
 
@@ -125,9 +125,9 @@ umap:
   enabled: false # if true, will generate UMAP embeddings for nodes
 
 snapshots:
-  graphml: yes
-  raw_entities: yes
-  top_level_nodes: yes
+  graphml: false
+  raw_entities: false
+  top_level_nodes: false
 
 local_search:
   # text_unit_prop: 0.5

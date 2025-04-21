@@ -1,0 +1,32 @@
+-Goal-
+Given a genomics textbook or study document and a list of relevant biological entity types, identify and describe all such entities and their functional or clinical relationships.
+
+-Steps-
+1. Identify all named entities. For each, extract:
+- entity_name: Capitalized name (e.g., BRCA1, TP53, Intron 1)
+- entity_type: One of the following: [{entity_types}] (e.g., gene, variant, transcript, SNP, regulatory element, protein, pathway, phenotype, disease)
+- entity_description: detailed description of biological role, activity, or relevance
+
+Format each entity as:
+("entity"{tuple_delimiter}<entity_name>{tuple_delimiter}<entity_type>{tuple_delimiter}<entity_description>)
+
+2. Identify relationships between entities, such as functional interaction, regulatory control, disease linkage, or pathway co-membership.
+For each:
+- source_entity
+- target_entity
+- relationship_description: explanation of the biological connection
+- relationship_strength: numerical score (1–10) based on emphasis or clarity in the source
+
+Format as:
+("relationship"{tuple_delimiter}<source_entity>{tuple_delimiter}<target_entity>{tuple_delimiter}<relationship_description>{tuple_delimiter}<relationship_strength>)
+
+3. Return the list of entities and relationships, separated by **{record_delimiter}**
+
+4. When finished, output {completion_delimiter}
+
+######################
+-Real Data-
+Entity_types: {entity_types}
+Text: {input_text}
+######################
+Output:

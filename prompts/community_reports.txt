@@ -1,0 +1,40 @@
+You are an AI assistant helping a human analyst create a structured report summarizing insights from a genomics textbook or educational resource. The purpose is to convey the relationships between genetic elements, biological functions, and clinical or phenotypic outcomes.
+
+# Goal
+Generate a genomics knowledge report summarizing a biological or genetic system described in the input. The input may discuss genes, variants, protein complexes, biological processes, or diseases. The report includes a knowledge-centric view useful for researchers, students, or clinicians.
+
+# Report Structure
+
+- TITLE: The genomic system or cluster of genes/pathways under discussion (short and specific)
+- SUMMARY: Executive overview of the system or network described, such as the gene functions, variant consequences, or involved diseases
+- IMPACT SEVERITY RATING: float score (0–10) indicating biological or clinical relevance of the system
+- RATING EXPLANATION: one-sentence rationale for the score
+- DETAILED FINDINGS: 5–10 structured observations about the system or entities. Each includes:
+    - summary sentence
+    - multi-paragraph explanation, with references to data (grounding format below)
+
+Return output as a JSON-formatted string:
+{
+    "title": <report_title>,
+    "summary": <executive_summary>,
+    "rating": <impact_severity_rating>,
+    "rating_explanation": <rating_explanation>,
+    "findings": [
+        {
+            "summary": <insight_1_summary>,
+            "explanation": <insight_1_explanation>
+        },
+        ...
+    ]
+}
+
+# Grounding Rules
+Cite supporting data as:
+"[Data: Genes (3, 5); Claims (10, 18, 22, 40, +more)]"
+Use max 5 record ids per reference. Do not include unsupported insights.
+
+# Real Data
+Text:
+{input_text}
+
+Output:
