@@ -1,9 +1,9 @@
 
-# 📊 # Graphrag-Local-Ollama - GraphRAG-Omics
+# 📊 # GraphRAG-genomics
 
 **GraphRAG-Omics** is an extension of Microsoft's [GraphRAG](https://github.com/microsoft/graphrag) library and TheAiSingularity/graphrag-local-ollama library that enables users to convert unstructured documents into **knowledge graphs** and interact with them using **natural language queries**.
 
-This version is specifically tailored for **genomics** and **clinical documents**. It is currently in its **early development stage**, with ongoing improvements and enhancements planned.
+This is just an expremental repository where the prompts were tailored for **genomics** and **clinical documents**.
 
 ---
 
@@ -39,6 +39,15 @@ graphrag-omics/
 ---
 
 ## 🧪 How to Run
+### Prerequisits
+
+1. install all necessary required libraries
+2. install neo4j-desktop
+3. install the graphrag, by executing the following command inside the root directory of the project.
+
+```bash
+pip install -e .
+```
 
 ### Step 1: Index Your Documents
 
