@@ -7,9 +7,9 @@ This is just an expremental repository where the prompts were tailored for **gen
 
 ---
 
-## 🚀 Features
+## 🚀 Main Highlights
 
-- 📄 **Document Indexing**: Convert raw `.txt` documents into `.parquet` files.
+- 📄 **Document Indexing**: Convert raw `.txt` documents into `.parquet` files - this uses graphrag library.
 - 🧠 **Knowledge Graph Generation**: Transform indexed documents into a structured knowledge graph stored in a **Neo4j** server.
 - 💬 **Natural Language Querying**: Interact with your knowledge graph through an intuitive **Streamlit** web interface — ask questions, get insights.
 
@@ -88,7 +88,6 @@ streamlit run app.py
 
 - Only `.txt` documents are currently supported.
 - Ensure that the Neo4j server is running before using the **Indexing** or **Query** functionality in the app.
-- This project is under active development — feedback and contributions are welcome!
 
 ---
 
